@@ -14,11 +14,7 @@ Aside
 Coordonnées
 ------------------------------------
 
-2-1360 rue Prunier<br>
-Sherbrooke, QC J1K 2J7<br>
-<i class="fas fa-mobile-alt"></i> (438) 825-6245<br>
 <i class="fa fa-envelope"></i> vcameron.mail@gmail.com<br>
-
 <i class="fa fa-twitter"></i> [CameronVictor5](https://twitter.com/CameronVictor5)<br>
 <i class="fa fa-github"></i> [vcameron1](https://github.com/vcameron1)<br>
 <i class="ai ai-google-scholar"></i> [Publications](https://scholar.google.com/citations?user=5syOaukAAAAJ&hl=fr)<br>
@@ -33,8 +29,6 @@ Programming skills
 <span style="font-weight:600;">Base de données</span>: <br>SQLite <br>(Basic knowledge)<br>
 
 <span style="font-weight:600;">Automation de raports</span>: <br>Rmarkdown, Git, Bash, LaTeX, pandoc, makefile<br> 
-
-<span style="font-weight:600;">Web</span>: HTML/CSS, ShinyApp<br>
 
 
 Languages
