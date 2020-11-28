@@ -165,9 +165,8 @@ Montréal, CA
 
 2020
 
-- Bourse obtenue pour la participation en tant que formateur au ateliers R (langage de programmation)
-  - Atelier #1: Introduction à R
-  - Atelier #2: Charger et manipuler des données
+- Bourse obtenue pour la participation en tant que formateur aux ateliers R (langage de programmation)
+
   
 ### Mention du doyen pour la recherche multidisciplinaire au premier cycle
 
@@ -215,6 +214,17 @@ N/A
 
 Formation scientifique {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
+
+### CIEE - BIOS2 synthesis working group
+
+CIEE & BIOS2
+
+N/A
+
+2020
+
+- Synthesizing 50 years of marine fish abundance and composition changes in the Gulf of St. Lawrence
+
 
 ### Stage à Conservation de la Nature Canada
 
