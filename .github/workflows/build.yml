@@ -59,7 +59,7 @@ jobs:
         run: |
           mkdir docs
           mv index.html docs/index.html
-          mv index.pdf docs/BenMerSci.pdf
+          mv index.pdf docs/VictorCameron.pdf
       
       - name: Deploy gh_pages
         uses: JamesIves/github-pages-deploy-action@releases/v3
