@@ -1,0 +1,312 @@
+---
+title: "Victor Cameron"
+author: "Victor Cameron"
+date: "`r Sys.Date()`"
+output: 
+   pagedown::html_resume:
+    css: ['css/styles.css', 'resume', 'https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css']
+    self_contained: no
+---
+
+Aside
+====================================
+
+Coordonnées
+------------------------------------
+
+2-1360 rue Prunier<br>
+Sherbrooke, QC J1K 2J7<br>
+<i class="fas fa-mobile-alt"></i> (438) 825-6245<br>
+<i class="fa fa-envelope"></i> vcameron.mail@gmail.com<br>
+
+<i class="fa fa-twitter"></i> [CameronVictor5](https://twitter.com/CameronVictor5)<br>
+<i class="fa fa-github"></i> [vcameron1](https://github.com/vcameron1)<br>
+<i class="ai ai-google-scholar"></i> [Publications](https://scholar.google.com/citations?user=5syOaukAAAAJ&hl=fr)<br>
+<i class="ai ai-orcid"></i> [0000-0003-0624-4201](https://orcid.org/0000-0003-0624-4201)<br>
+
+
+Programming skills
+------------------------------------
+
+<span style="font-weight:600;">Analyse et représentation de données</span>: <br>R, C++<br>
+
+<span style="font-weight:600;">Base de données</span>: <br>SQLite <br>(Basic knowledge)<br>
+
+<span style="font-weight:600;">Automation de raports</span>: <br>Rmarkdown, Git, Bash, LaTeX, pandoc, makefile<br> 
+
+<span style="font-weight:600;">Web</span>: HTML/CSS, ShinyApp<br>
+
+
+Languages
+------------------------------------
+
+**Français**<span style="font-size:11px;"> Natif</span><br>
+**Anglais**<span style="font-size:11px;"> Professionnel</span><br>
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Fait avec [**pagedown**](https://github.com/rstudio/pagedown).
+
+Le code source est disponible à [github.com/vcameron1/cv](https://github.com/vcameron1/cv).
+
+Dernière mise à jour `r Sys.Date()`.
+
+[<i class='fas fa-download'></i> Télécharger la version PDF](https://vcameron1.github.io/cv/VCameron.pdf)
+
+
+
+Main
+================================================================================
+
+ <span style="font-weight:600">Victor Cameron</span> <span style="font-size: 13px;">BSc.</span>{#title}
+--------------------------------------------------------------------------------
+
+
+<span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-laptop"></i> >  Écologiste quantitatif, enseignant et scientifique des données en devenir </span>
+
+<span style="font-size: 1rem;">< <i class="fa fa-tree"></i> + <i class="fa fa-bicycle"></i> > Athlète accompli et passionné de la nature
+
+
+Éducation {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Candidat à la Maitrise | Écologie computationelle
+
+[Laboratoire d'écologie intégrative](http://ielab.recherche.usherbrooke.ca) - Université de Sherbrooke
+
+Sherbrooke, CA
+
+2019 - 2021
+
+- Comprendre comment les espèces régiront aux changements climatiques en tenant compte des interactions biotiques
+- Modélisation mathématique | Écologie théorique | Méthodes quatitatives | Analyses statistique | Méthodes bayesiennes
+- BIOS2 Fellow
+
+### Baccaloréat en biologie | Diplôme Honours
+
+Université McGill (3.60/4.00)
+
+Montréal, CA
+
+2015 - 2019
+
+- Projet Honours (Hargreaves Lab): Écologie, dynamiques de la portée des distributions
+- Projet de recherche indépendant (Ricciardi Lab): Écologie, réponses fonctionnelles avec une espèce invasive
+- Mineure en histoire naturelle
+
+
+Expériences Professionnelles {data-icon=suitcase data-concise=true}
+--------------------------------------------------------------------------------
+
+### Entraineur de patinage de vitesse 
+
+[Club de patinage de vitesse de Sherbrooke](https://www.cpvs.org)
+
+Sherbrooke, CA
+
+2019 - Aujourd'hui
+
+- Réalisation de sessions pour athlètes de niveau provincial et national visant à perfectionner des habiletés techniques, physiques et à offrir un environnement optimal pour la performance
+- Planifier des sessions qui ont des objectifs précis et assurer leur réalisation
+
+### Entraineur chef
+
+[Club de patinage de vitesse de Laval Ste-Dorothée](https://www.patinlaval.ca/ste-dorothee/)
+
+Laval, CA
+
+2013 - 2016
+
+- Gestion d'une école de patin de 125 jeunes de 4 à 15 ans et d'une équipe d'entraineurs, d'assistants et d'aides
+
+
+### Aide Technicien en climatisation/chauffage
+
+[Thermo-teck](https://www.pagesjaunes.ca/bus/Quebec/Saint-Laurent/Thermo-Teck/101954778.html)
+
+Montréal, CA
+
+2016 - 2018
+
+- Installation et réparation de systèmes de climatisation/chauffage
+- Travail manuel et résolution de problèmes
+
+
+### Entraineur de patinage de vitesse 
+
+[Club de patinage de vitesse de Laval](https://www.patinlaval.ca/crcp/)
+
+Laval, CA
+
+2011 - 2019
+
+
+Bourses et prix {data-icon=star}
+--------------------------------------------------------------------------------
+
+### Bourse de recherche (8750$)
+
+[BIOS2](http://bios2.usherbrooke.ca/fr/accueil-2/)
+
+Sherbrooke, CA
+
+2020
+
+- Bourse obtenue suite à un concours où un comité évalue les candidatures et les propositions de projet dans un processus anonyme
+
+
+### Bourse de ... ($)
+
+[CSBQ](https://qcbs.ca/fr/)
+
+Montréal, CA
+
+2020
+
+- Bourse obtenue pour la participation en tant que formateur au ateliers R (langage de programmation)
+  - Atelier #1: Introduction à R
+  - Atelier #2: Charger et manipuler des données
+  
+### Mention du doyen pour la recherche multidisciplinaire au premier cycle
+
+Université McGill
+
+Montréal, CA
+
+2019
+
+- La mention est accordée aux étudiants ayant complété différents projets de recherche indépendants dans au moins deux départements distinct de l'université 
+- L'obtention de cet honneur s'est faite parce que j'ai mené un projet au Musée Redpath et un autre au département de biologie
+  
+### Bourse régionale sport-étude de la Fondation Desjardins (500$)
+
+[Alliance sport-étude](https://alliancesportetudes.ca)
+
+Laval, CA
+
+2015
+
+- La bourse régionale de la fondation sport-étude récompense les étudiants-athlètes méritants pour leur succès au niveau des résultats académiques et sportifs. La bourse est remise à l'étudiant-athlète de la région présentant les meilleures performances
+
+### Vice - champion canadien au 500m et au relais
+
+Patinage de vitesse
+
+Canada
+
+2013
+
+
+Publications (Peer-reviewed journals) {data-icon=book}
+--------------------------------------------------------------------------------
+
+### Spatial distribution and conservation hotspots of mammals in Canada
+
+FACETS <a href="{https://doi.org/10.1139/facets-2020-0018}" target="_blank"><i class="ai ai-doi"></i></a>
+
+N/A
+
+2020
+
+<span style="text-decoration: underline;">Cameron, V.</span>, & Hargreaves, A. L.
+
+
+Formation scientifique {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Stage à Conservation de la Nature Canada
+
+[Conservation de la Nature Canada](https://www.natureconservancy.ca/fr/)
+
+Montréal, CA
+
+2020
+
+- Conception d'un outil de science citoyenne pour la collection de données sur le terrain
+
+### Projet de recherche Honours
+
+[Hargreaves Lab](https://annahargreaves.wixsite.com/home)
+
+Montréal, CA
+
+2018 - 2019
+
+- 
+
+### Projet de recherche indépendant
+
+[Ricciardi Lab](http://redpath-staff.mcgill.ca/ricciardi/)
+
+Montréal, CA
+
+2018
+
+- 
+
+Conférences et affiches {data-icon=chalkboard}
+--------------------------------------------------------------------------------
+
+### Spatial distribution and conservation of terrestrial mammals in Canada
+
+Colloque annuel du QCBS
+
+Montréal, CA
+
+2019
+
+- ([poster]())
+
+
+Enseignement {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Introduction à R
+
+CSBQ
+
+Montréal, CA
+
+2020
+
+- Premier atelier dans la série d'atelier R du CSBQ
+
+### Charger et manipuler des données
+
+CSBQ
+
+Montréal, CA
+
+2020
+
+- Deuxième atelier dans la série d'atelier R du CSBQ
+
+
+Certifications {data-icon=certificate}
+--------------------------------------------------------------------------------
+
+### Permis de possession et acquisition d'une arme à feu
+
+Gouvernement du Canada
+
+N/A
+
+2020
+
+### Patinage de vitesse compétition - Développement (anciennement niv. 3)
+
+PVC
+
+N/A
+
+2019
+
+### Permis de conduire de classe 5
+
+Gouvernement du Québec
+
+N/A
+
+2011
