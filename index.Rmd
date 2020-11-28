@@ -43,7 +43,7 @@ Disclaimer {#disclaimer}
 
 Fait avec [**pagedown**](https://github.com/rstudio/pagedown).
 
-Le code source est disponible à [github.com/vcameron1/cv](https://github.com/vcameron1/resume).
+Le code source est disponible à [github.com/vcameron1/resume](https://github.com/vcameron1/resume).
 
 Dernière mise à jour `r Sys.Date()`.
 
