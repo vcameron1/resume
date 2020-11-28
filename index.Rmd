@@ -26,9 +26,9 @@ Programming skills
 
 <span style="font-weight:600;">Analyse et représentation de données</span>: <br>R, C++<br>
 
-<span style="font-weight:600;">Base de données</span>: <br>SQLite <br>(Basic knowledge)<br>
+<span style="font-weight:600;">Base de données</span>: <br>SQLite <br>(Connaissances de base)<br>
 
-<span style="font-weight:600;">Automation de raports</span>: <br>Rmarkdown, Git, Bash, LaTeX, pandoc, makefile<br> 
+<span style="font-weight:600;">Automation de raports</span>: <br>Markdown, Git, Bash, LaTeX, pandoc, makefile<br> 
 
 
 Languages
@@ -66,7 +66,7 @@ Main
 Éducation {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Candidat à la Maitrise | Écologie computationelle
+### Candidat à la Maitrise | Écologie computationnelle
 
 [Laboratoire d'écologie intégrative](http://ielab.recherche.usherbrooke.ca) - Université de Sherbrooke
 
@@ -75,10 +75,10 @@ Sherbrooke, CA
 2019 - 2021
 
 - Comprendre comment les espèces régiront aux changements climatiques en tenant compte des interactions biotiques
-- Modélisation mathématique | Écologie théorique | Méthodes quatitatives | Analyses statistique | Méthodes bayesiennes
+- Modélisation mathématique | Écologie théorique | Méthodes quantitatives | Analyses statistiques | Méthodes bayésiennes
 - BIOS2 Fellow
 
-### Baccaloréat en biologie | Diplôme Honours
+### Baccalauréat en biologie | Diplôme Honours
 
 Université McGill (3.60/4.00)
 
@@ -105,7 +105,7 @@ Sherbrooke, CA
 - Réalisation de sessions pour athlètes de niveau provincial et national visant à perfectionner des habiletés techniques, physiques et à offrir un environnement optimal pour la performance
 - Planifier des sessions qui ont des objectifs précis et assurer leur réalisation
 
-### Entraineur chef
+### Entraineur-chef
 
 [Club de patinage de vitesse de Laval Ste-Dorothée](https://www.patinlaval.ca/ste-dorothee/)
 
@@ -170,7 +170,7 @@ Montréal, CA
 
 2019
 
-- La mention est accordée aux étudiants ayant complété différents projets de recherche indépendants dans au moins deux départements distinct de l'université 
+- La mention est accordée aux étudiants ayant complété différents projets de recherche indépendants dans au moins deux départements distincts de l'université 
 - L'obtention de cet honneur s'est faite parce que j'ai mené un projet au Musée Redpath et un autre au département de biologie
   
 ### Bourse régionale sport-étude de la Fondation Desjardins (500$)
@@ -238,7 +238,8 @@ Montréal, CA
 
 2018 - 2019
 
-- 
+- Écologie | Étude de l'effet de la distribution des mammifères 'canadiens' sur leur statut de conservation et sur les régions à prioriser pour la conservation de ces espèces
+- Analyse de données et statistiques sur R | Data science | Données spatiales de COSEWIC et de IUCN
 
 ### Projet de recherche indépendant
 
@@ -248,7 +249,8 @@ Montréal, CA
 
 2018
 
-- 
+- Écologie | Étude de l'effet de l'habitat sur l'impact qu'une espèce invasive (Gobie) a sur les communautés du Saint-Laurent
+- Expériences en laboratoire et analyse de données sur R | Réponses fonctionnelles | Interaction prédateur-proie
 
 Conférences et affiches {data-icon=chalkboard}
 --------------------------------------------------------------------------------
@@ -275,7 +277,7 @@ Montréal, CA
 
 2020
 
-- Premier atelier dans la série d'atelier R du CSBQ
+- Premier atelier dans la série d'ateliers R du CSBQ
 
 ### Charger et manipuler des données
 
@@ -285,7 +287,7 @@ Montréal, CA
 
 2020
 
-- Deuxième atelier dans la série d'atelier R du CSBQ
+- Deuxième atelier dans la série d'ateliers R du CSBQ
 
 
 Certifications {data-icon=certificate}
