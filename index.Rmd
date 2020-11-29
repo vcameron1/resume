@@ -21,7 +21,7 @@ Coordonnées
 <i class="ai ai-orcid"></i> [0000-0003-0624-4201](https://orcid.org/0000-0003-0624-4201)<br>
 
 
-Programming skills
+Programmation
 ------------------------------------
 
 <span style="font-weight:600;">Analyse et représentation de données</span>: <br>R, C++<br>
@@ -31,7 +31,7 @@ Programming skills
 <span style="font-weight:600;">Automation de raports</span>: <br>Markdown, Git, Bash, LaTeX, pandoc, makefile<br> 
 
 
-Languages
+Langues
 ------------------------------------
 
 **Français**<span style="font-size:11px;"> Natif</span><br>
@@ -206,7 +206,7 @@ N/A
 <span style="text-decoration: underline;">Cameron, V.</span>, & Hargreaves, A. L.
 
 
-Formation scientifique {data-icon=graduation-cap data-concise=true}
+Formation scientifique {data-icon=flask data-concise=true}
 --------------------------------------------------------------------------------
 
 ### CIEE - BIOS2 synthesis working group
@@ -217,7 +217,7 @@ N/A
 
 2020
 
-- Synthesizing 50 years of marine fish abundance and composition changes in the Gulf of St. Lawrence
+- Synthétiser 50 ans de changements d'abondance et de composition chez les poissons du golfe du St-Laurent
 
 
 ### Stage à Conservation de la Nature Canada
