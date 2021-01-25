@@ -209,6 +209,16 @@ N/A
 Formation scientifique {data-icon=flask data-concise=true}
 --------------------------------------------------------------------------------
 
+### BIOS2-G3E working group
+
+BIOS2 & G3E
+
+N/A
+
+2021
+
+- Atelier de travail sur l’impact des changements climatiques sur les petits cours d’eau du Québec
+
 ### CIEE - BIOS2 synthesis working group
 
 CIEE & BIOS2
@@ -217,7 +227,7 @@ N/A
 
 2020
 
-- Synthétiser 50 ans de changements d'abondance et de composition chez les poissons du golfe du St-Laurent
+- Synthétiser 50 ans de changements d'abondance et de composition chez les poissons et mollusques du golfe du St-Laurent
 
 
 ### Stage à Conservation de la Nature Canada
