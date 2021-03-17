@@ -100,8 +100,9 @@ Expériences Professionnelles {data-icon=suitcase data-concise=true}
 
 Sherbrooke, CA
 
-2019 - Aujourd'hui
+2011 - Aujourd'hui
 
+- Auparavant à [Club de patinage de vitesse de Laval](https://www.patinlaval.ca/crcp/) (2011 - 2019)
 - Réalisation de sessions pour athlètes de niveau provincial et national visant à perfectionner des habiletés techniques, physiques et à offrir un environnement optimal pour la performance
 - Planifier des sessions qui ont des objectifs précis et assurer leur réalisation
 
@@ -128,15 +129,6 @@ Montréal, CA
 - Travail manuel et résolution de problèmes
 
 
-### Entraineur de patinage de vitesse 
-
-[Club de patinage de vitesse de Laval](https://www.patinlaval.ca/crcp/)
-
-Laval, CA
-
-2011 - 2019
-
-
 Bourses et prix {data-icon=star}
 --------------------------------------------------------------------------------
 
@@ -151,7 +143,7 @@ Sherbrooke, CA
 - Bourse obtenue suite à un concours où un comité évalue les candidatures et les propositions de projet dans un processus anonyme
 
 
-### Bourse de ... ($)
+### Bourse de formateur (125$)
 
 [CSBQ](https://qcbs.ca/fr/)
 
@@ -159,7 +151,7 @@ Montréal, CA
 
 2020
 
-- Bourse obtenue pour la participation en tant que formateur aux ateliers R (langage de programmation)
+- Bourse obtenue pour la participation en tant que formateur aux ateliers R (programmation et statistiques)
 
   
 ### Mention du doyen pour la recherche multidisciplinaire au premier cycle
@@ -181,7 +173,7 @@ Laval, CA
 
 2015
 
-- La bourse régionale de la fondation sport-étude récompense les étudiants-athlètes méritants pour leur succès au niveau des résultats académiques et sportifs. La bourse est remise à l'étudiant-athlète de la région présentant les meilleures performances
+- La bourse régionale de la fondation sport-étude récompense les étudiants-athlètes méritants pour leur succès au niveau des résultats académiques et sportifs. La bourse est remise à l'étudiant-athlète de la région présentant les meilleures performances.
 
 ### Vice - champion canadien au 500m et au relais
 
@@ -217,7 +209,7 @@ N/A
 
 2021
 
-- Atelier de travail sur l’impact des changements climatiques sur les petits cours d’eau du Québec
+- Analyse primaire de l’impact des changements climatiques sur la biodiversité des petits cours d’eau du Québec
 
 ### CIEE - BIOS2 synthesis working group
 
@@ -273,21 +265,31 @@ Montréal, CA
 
 2019
 
-- ([poster]())
+- ([poster](https://github.com/vcameron1/resume/docs/CSBQ2019.pdf))
 
 
 Enseignement {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Introduction à R
+### Atelier sur le parcours en science postsecondaire
+
+Sherbrooke, Ca
+
+2021
+
+- Développement et animation d'un atelier sur la pratique de la science et sur les études postsecondaires en science 
+- Présentation du parcours et des travaux de recherche
+- Rencontres orientantes avec les étudiants en science de l'école secondaire La Montée afin de leur faire découvrir les sciences
+
+### Modèles linéaires généralisés
 
 CSBQ
 
 Montréal, CA
 
-2020
+2021
 
-- Premier atelier dans la série d'ateliers R du CSBQ
+- Sixième atelier dans la série d'ateliers R du CSBQ
 
 ### Charger et manipuler des données
 
@@ -299,6 +301,16 @@ Montréal, CA
 
 - Deuxième atelier dans la série d'ateliers R du CSBQ
 
+### Introduction à R
+
+CSBQ
+
+Montréal, CA
+
+2020
+
+- Premier atelier dans la série d'ateliers R du CSBQ
+
 
 Certifications {data-icon=certificate}
 --------------------------------------------------------------------------------
@@ -309,7 +321,7 @@ Gouvernement du Canada
 
 N/A
 
-2020
+2021
 
 ### Patinage de vitesse compétition - Développement (anciennement niv. 3)
 
