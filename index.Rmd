@@ -14,11 +14,18 @@ Aside
 Coordonnées
 ------------------------------------
 
-<i class="fa fa-envelope"></i> vcameron.mail@gmail.com<br>
+<i class="fa fa-envelope"></i> victor.cameron@usherbrooke.ca<br>
 <i class="fa fa-twitter"></i> [CameronVictor5](https://twitter.com/CameronVictor5)<br>
 <i class="fa fa-github"></i> [vcameron1](https://github.com/vcameron1)<br>
 <i class="ai ai-google-scholar"></i> [Publications](https://scholar.google.com/citations?user=5syOaukAAAAJ&hl=fr)<br>
 <i class="ai ai-orcid"></i> [0000-0003-0624-4201](https://orcid.org/0000-0003-0624-4201)<br>
+
+
+Langues
+------------------------------------
+
+**Français**<span style="font-size:11px;"> Natif</span><br>
+**Anglais**<span style="font-size:11px;"> Professionnel</span><br>
 
 
 Programmation
@@ -29,13 +36,6 @@ Programmation
 <span style="font-weight:600;">Base de données</span>: <br>SQLite <br>(Connaissances de base)<br>
 
 <span style="font-weight:600;">Automation de raports</span>: <br>Markdown, Git, Bash, LaTeX, pandoc, makefile<br> 
-
-
-Langues
-------------------------------------
-
-**Français**<span style="font-size:11px;"> Natif</span><br>
-**Anglais**<span style="font-size:11px;"> Professionnel</span><br>
 
 
 Disclaimer {#disclaimer}
