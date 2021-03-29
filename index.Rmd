@@ -66,6 +66,17 @@ Main
 Éducation {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
+### Microprogramme de 2e cycle de formation initiale en enseignement au collégial (MIFIEC)
+
+[Faculté d'enseignement](https://www.usherbrooke.ca/education/) - Université de Sherbrooke
+
+Sherbrooke, CA
+
+2021
+
+- Élaborer des situations d’apprentissage tenant compte de la progression des apprentissages des élèves, de leurs caractéristiques personnelles, de l’épistémologie des savoirs et des finalités de l’enseignement collégial
+- Construction d'une identité professionnelle caractérisée par la culture de l’enseignement collégial
+
 ### Candidat à la Maitrise | Écologie computationnelle
 
 [Laboratoire d'écologie intégrative](http://ielab.recherche.usherbrooke.ca) - Université de Sherbrooke
