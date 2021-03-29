@@ -91,6 +91,52 @@ Montréal, CA
 - Mineure en histoire naturelle
 
 
+Enseignement {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Atelier sur le parcours en science postsecondaire
+
+École secondaire La Montée
+
+Sherbrooke, Ca
+
+2021
+
+- Développement et animation d'un atelier sur la pratique de la science et sur les études postsecondaires en science 
+- Présentation du parcours et des travaux de recherche
+- Rencontres orientantes avec les étudiants en science de l'école secondaire La Montée afin de leur faire découvrir les sciences
+
+### Modèles linéaires généralisés
+
+CSBQ
+
+Montréal, CA
+
+2021
+
+- Sixième atelier dans la série d'ateliers R du CSBQ
+
+### Charger et manipuler des données
+
+CSBQ
+
+Montréal, CA
+
+2020
+
+- Deuxième atelier dans la série d'ateliers R du CSBQ
+
+### Introduction à R
+
+CSBQ
+
+Montréal, CA
+
+2020
+
+- Premier atelier dans la série d'ateliers R du CSBQ
+
+
 Expériences Professionnelles {data-icon=suitcase data-concise=true}
 --------------------------------------------------------------------------------
 
@@ -266,52 +312,6 @@ Montréal, CA
 2019
 
 - ([poster](https://github.com/vcameron1/resume/docs/CSBQ2019.pdf))
-
-
-Enseignement {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Atelier sur le parcours en science postsecondaire
-
-École secondaire La Montée
-
-Sherbrooke, Ca
-
-2021
-
-- Développement et animation d'un atelier sur la pratique de la science et sur les études postsecondaires en science 
-- Présentation du parcours et des travaux de recherche
-- Rencontres orientantes avec les étudiants en science de l'école secondaire La Montée afin de leur faire découvrir les sciences
-
-### Modèles linéaires généralisés
-
-CSBQ
-
-Montréal, CA
-
-2021
-
-- Sixième atelier dans la série d'ateliers R du CSBQ
-
-### Charger et manipuler des données
-
-CSBQ
-
-Montréal, CA
-
-2020
-
-- Deuxième atelier dans la série d'ateliers R du CSBQ
-
-### Introduction à R
-
-CSBQ
-
-Montréal, CA
-
-2020
-
-- Premier atelier dans la série d'ateliers R du CSBQ
 
 
 Certifications {data-icon=certificate}
