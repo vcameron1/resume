@@ -74,8 +74,9 @@ Sherbrooke, CA
 
 2021
 
-- Élaborer des situations d’apprentissage tenant compte de la progression des apprentissages des élèves, de leurs caractéristiques personnelles, de l’épistémologie des savoirs et des finalités de l’enseignement collégial
-- Construction d'une identité professionnelle caractérisée par la culture de l’enseignement collégial
+- Élaboration de situations d'apprentissage qui tiennent compte des caractéristiques personnelles des élèves et des pratiques pédagogiques.
+- Se familiariser et tenir compte du cadre d'enseignement au collégial
+- Préparation et présentation d'activités d'enseignement
 
 ### Candidat à la Maitrise | Écologie computationnelle
 
@@ -85,9 +86,21 @@ Sherbrooke, CA
 
 2019 - 2021
 
-- Comprendre comment les espèces régiront aux changements climatiques en tenant compte des interactions biotiques
-- Modélisation mathématique | Écologie théorique | Méthodes quantitatives | Analyses statistiques | Méthodes bayésiennes
-- BIOS2 Fellow
+- Développement d'une nouvelle méthode pour simuler la réponse des espèces aux changements climatiques
+- Écologie théorique | Analyses statistiques | Modélisation mathématique | Méthodes bayésiennes
+- Boursier du programme de formation en science de la biodiversité BIOS2
+
+### Microprogramme de 2e cycle en interactions scientifiques
+  
+[Faculté des sciences](https://www.usherbrooke.ca/sciences/) - Université de Sherbrooke
+  
+Sherbrooke, CA
+  
+2019 - 2021
+  
+- Animer des discussions et communiquer efficacement des résultats et concepts scientifiques
+- Approfondir des thèmes spécialisés et apprendre à rédiger des rapports de synthèse et articles
+- Développer ses réflexions et analyses critiques des problématiques du domaine de la biologie 
 
 ### Baccalauréat en biologie | Diplôme Honours
 
@@ -291,10 +304,10 @@ Sherbrooke, Ca
 2021
 
 - Développement et animation d'un atelier sur la pratique de la science et sur les études postsecondaires en science 
-- Présentation du parcours et des travaux de recherche
-- Rencontres orientantes avec les étudiants en science de l'école secondaire La Montée afin de leur faire découvrir les sciences
+  - Présentation du parcours et des travaux de recherche
+  - Rencontres orientantes avec les étudiants en sciences de l'école secondaire La Montée afin de leur faire découvrir les sciences
 
-### Modèles linéaires généralisés
+### Atelier sur les modèles linéaires généralisés
 
 CSBQ
 
@@ -302,27 +315,30 @@ Montréal, CA
 
 2021
 
-- Sixième atelier dans la série d'ateliers R du CSBQ
-
+- Atelier sur les fondements et l'utilisation d'une méthode d'analyse statistique
+- Atelier développé pour et présenté aux étudiants gradués et au corps facultaire des universités du Québec
+  
 ### Charger et manipuler des données
-
+  
 CSBQ
-
+  
 Montréal, CA
-
+  
 2020
-
-- Deuxième atelier dans la série d'ateliers R du CSBQ
-
+  
+- Atelier sur les fondements et l'utilisation de données pour en faire l'analyse
+- Atelier développé pour et présenté aux étudiants gradués et au corps facultaire des universités du Québec
+  
 ### Introduction à R
-
+  
 CSBQ
-
+  
 Montréal, CA
-
+  
 2020
-
-- Premier atelier dans la série d'ateliers R du CSBQ
+  
+- Atelier d'introduction au langage de programmation R
+- Atelier développé pour et présenté aux étudiants gradués et au corps facultaire des universités du Québec
 
 
 Certifications {data-icon=certificate}
