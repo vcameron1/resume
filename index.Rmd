@@ -14,11 +14,11 @@ Aside
 Coordonnées
 ------------------------------------
 
+<i class="fa fa-map-marker-alt"></i> 1360 rue Prunier, Sherbrooke, J1k 2J7<br>
+<i class="fa fa-mobile"></i> (438) 825-6245<br>
 <i class="fa fa-envelope"></i> victor.cameron@usherbrooke.ca<br>
-<i class="fa fa-twitter"></i> [CameronVictor5](https://twitter.com/CameronVictor5)<br>
 <i class="fa fa-github"></i> [vcameron1](https://github.com/vcameron1)<br>
 <i class="ai ai-google-scholar"></i> [Publications](https://scholar.google.com/citations?user=5syOaukAAAAJ&hl=fr)<br>
-<i class="ai ai-orcid"></i> [0000-0003-0624-4201](https://orcid.org/0000-0003-0624-4201)<br>
 
 
 Langues
@@ -28,14 +28,14 @@ Langues
 **Anglais**<span style="font-size:11px;"> Professionnel</span><br>
 
 
-Programmation
+Expertise
 ------------------------------------
+
+<span style="font-weight:600;">Biologie</span>: <br>Écologie, biologie cellulaire et moléculaire,<br> connaissances de base des grands systèmes biologiques chez l'humain<br>
 
 <span style="font-weight:600;">Analyse et représentation de données</span>: <br>R, C++<br>
 
-<span style="font-weight:600;">Base de données</span>: <br>SQLite <br>(Connaissances de base)<br>
-
-<span style="font-weight:600;">Automation de raports</span>: <br>Markdown, Git, Bash, LaTeX, pandoc, makefile<br> 
+<span style="font-weight:600;">Rédaction et présentation</span>: <br>Word, PowerPoint, Miro, Kahoot, LaTeX<br>
 
 
 Disclaimer {#disclaimer}
@@ -54,11 +54,11 @@ Dernière mise à jour `r Sys.Date()`.
 Main
 ================================================================================
 
- <span style="font-weight:600">Victor Cameron</span> <span style="font-size: 13px;">BSc.</span>{#title}
+ <span style="font-weight:600">Victor Cameron</span> <span style="font-size: 13px;"></span>{#title}
 --------------------------------------------------------------------------------
 
 
-<span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-laptop"></i> >  Écologiste quantitatif, enseignant et scientifique des données en devenir </span>
+<span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-laptop"></i> >  Biologiste, enseignant et scientifique des données </span>
 
 <span style="font-size: 1rem;">< <i class="fa fa-tree"></i> + <i class="fa fa-bicycle"></i> > Athlète accompli et passionné de la nature
 
@@ -74,10 +74,11 @@ Sherbrooke, CA
 
 2021
 
-- Élaborer des situations d’apprentissage visant la progression des apprentissages des élèves en tenant compte de leurs caractéristiques personnelles, de l’épistémologie des savoirs et du cadre d'enseignement au collégial
-- Construction d'une identité professionnelle d'enseignant au collégial
+- Élaboration de situations d'apprentissage qui tiennent compte des caractéristiques personnelles des élèves et des pratiques pédagogiques.
+- Se familiariser et tenir compte du cadre d'enseignement au collégial
+- Préparation et présentation d'activités d'enseignement
 
-### Candidat à la Maitrise | Écologie computationnelle
+### Maitrise | Écologie computationnelle
 
 [Laboratoire d'écologie intégrative](http://ielab.recherche.usherbrooke.ca) - Université de Sherbrooke
 
@@ -85,9 +86,9 @@ Sherbrooke, CA
 
 2019 - 2021
 
-- Comprendre comment les espèces régiront aux changements climatiques en tenant compte des interactions biotiques
-- Modélisation mathématique | Écologie théorique | Méthodes quantitatives | Analyses statistiques | Méthodes bayésiennes
-- BIOS2 Fellow
+- Développement d'une nouvelle méthode pour simuler la réponse des espèces aux changements climatiques
+- Écologie théorique | Analyses statistiques | Modélisation mathématique
+- Boursier du programme de formation en science de la biodiversité BIOS2
 
 ### Baccalauréat en biologie | Diplôme Honours
 
@@ -97,9 +98,21 @@ Montréal, CA
 
 2015 - 2019
 
-- Projet Honours (Hargreaves Lab): Écologie, dynamiques de la portée des distributions
+- Projet de recherche Honours (Hargreaves Lab): Écologie, dynamiques de la portée des distributions
 - Projet de recherche indépendant (Ricciardi Lab): Écologie, réponses fonctionnelles avec une espèce invasive
 - Mineure en histoire naturelle
+
+### DEC | Sciences de la nature
+
+Collège Montmorency (31.6)
+
+Laval, CA
+
+2012 - 2015
+
+- Cours suivi: Évolution et diversité du vivant, Structure et fonctionnement du vivant et Régulation de l'homéostasie chez l'être humain
+- Projet d'intégration en biologie portant sur la capacité antibiotique de produits naturels en circulation libre
+- Parcours effectué en sport-étude
 
 
 Enseignement {data-icon=chalkboard-teacher}
@@ -117,7 +130,7 @@ Sherbrooke, Ca
 - Présentation du parcours et des travaux de recherche
 - Rencontres orientantes avec les étudiants en sciences de l'école secondaire La Montée afin de leur faire découvrir les sciences
 
-### Modèles linéaires généralisés
+### Atelier sur les modèles linéaires généralisés
 
 CSBQ
 
@@ -125,7 +138,8 @@ Montréal, CA
 
 2021
 
-- Sixième atelier dans la série d'ateliers R du CSBQ
+- Atelier sur les fondements et l'utilisation d'une méthode d'analyse statistique
+- Atelier développé pour et présenté aux étudiants gradués et au corps facultaire des universités du Québec
 
 ### Charger et manipuler des données
 
@@ -135,7 +149,8 @@ Montréal, CA
 
 2020
 
-- Deuxième atelier dans la série d'ateliers R du CSBQ
+- Atelier sur les fondements et l'utilisation de données pour en faire l'analyse
+- Atelier développé pour et présenté aux étudiants gradués et au corps facultaire des universités du Québec
 
 ### Introduction à R
 
@@ -145,10 +160,11 @@ Montréal, CA
 
 2020
 
-- Premier atelier dans la série d'ateliers R du CSBQ
+- Atelier d'introduction au langage de programmation R
+- Atelier développé pour et présenté aux étudiants gradués et au corps facultaire des universités du Québec
 
 
-Expériences Professionnelles {data-icon=suitcase data-concise=true}
+Expériences professionnelles {data-icon=suitcase data-concise=true}
 --------------------------------------------------------------------------------
 
 ### Entraineur de patinage de vitesse 
@@ -172,18 +188,6 @@ Laval, CA
 2013 - 2016
 
 - Gestion d'une école de patin de 125 jeunes de 4 à 15 ans et d'une équipe d'entraineurs, d'assistants et d'aides
-
-
-### Aide Technicien en climatisation/chauffage
-
-[Thermo-teck](https://www.pagesjaunes.ca/bus/Quebec/Saint-Laurent/Thermo-Teck/101954778.html)
-
-Montréal, CA
-
-2016 - 2018
-
-- Installation et réparation de systèmes de climatisation/chauffage
-- Travail manuel et résolution de problèmes
 
 
 Bourses et prix {data-icon=star}
@@ -276,7 +280,7 @@ N/A
 
 2020
 
-- Synthétiser 50 ans de changements d'abondance et de composition chez les poissons et mollusques du golfe du St-Laurent
+- Synthétiser 50 ans de changements d'abondance et de composition chez les poissons et mollusques du golfe du Saint-Laurent
 
 
 ### Stage à Conservation de la Nature Canada
@@ -322,32 +326,5 @@ Montréal, CA
 
 2019
 
-- ([poster](https://github.com/vcameron1/resume/docs/CSBQ2019.pdf))
+- ([Affiche](https://github.com/vcameron1/resume/docs/CSBQ2019.pdf))
 
-
-Certifications {data-icon=certificate}
---------------------------------------------------------------------------------
-
-### Permis de possession et acquisition d'une arme à feu
-
-Gouvernement du Canada
-
-N/A
-
-2021
-
-### Patinage de vitesse compétition - Développement (anciennement niv. 3)
-
-PVC
-
-N/A
-
-2019
-
-### Permis de conduire de classe 5
-
-Gouvernement du Québec
-
-N/A
-
-2011
