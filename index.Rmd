@@ -21,6 +21,15 @@ Coordonnées
 <i class="ai ai-google-scholar"></i> [Publications](https://scholar.google.com/citations?user=5syOaukAAAAJ&hl=fr)<br>
 
 
+Expérience
+------------------------------------
+
+**Entraineur**
+**Enseignement**
+**Formations**
+**Ateliers**
+
+
 Langues
 ------------------------------------
 
@@ -31,11 +40,9 @@ Langues
 Expertise
 ------------------------------------
 
-<span style="font-weight:600;">Biologie</span>: <br>Écologie, biologie cellulaire et moléculaire,<br> connaissances de base des grands systèmes biologiques chez l'humain<br>
+<span style="font-weight:600;">Biologie</span>: <br>Écologie, biologie cellulaire et moléculaire,<br> connaissances des grands systèmes biologiques chez l'humain<br>
 
-<span style="font-weight:600;">Analyse et représentation de données</span>: <br>R, C++<br>
-
-<span style="font-weight:600;">Rédaction et présentation</span>: <br>Word, PowerPoint, Miro, Kahoot, LaTeX<br>
+<span style="font-weight:600;">Rédaction et présentation</span>: <br>Suite Ms Office, Google Slides, Miro, Kahoot, LaTeX<br>
 
 
 Disclaimer {#disclaimer}
@@ -63,6 +70,25 @@ Main
 <span style="font-size: 1rem;">< <i class="fa fa-tree"></i> + <i class="fa fa-bicycle"></i> > Athlète accompli et passionné de la nature
 
 
+Profil {data-icon=user data-concise=true}
+--------------------------------------------------------------------------------
+
+Expérience dans l'encadrement de jeunes adultes en situation d'aprentissage et de développement
+Développement de matériel d'enseignement
+Présentation d'ateliers de science et de biologie
+Expérience comme conférencier au secondaire
+
+
+Compétences clés {data-icon=bookmark data-concise=true}
+--------------------------------------------------------------------------------
+
+Excellente connaissances des techniques d'enseignement
+Intervention auprès de jeunes adultes en milieu sportif
+Compétences numériques
+Connaissances des grands domaines de la biologie et des principaux concepts
+Bonne gestion de groupe
+
+
 Éducation {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
@@ -74,9 +100,7 @@ Sherbrooke, CA
 
 2021
 
-- Élaboration de situations d'apprentissage qui tiennent compte des caractéristiques personnelles des élèves et des pratiques pédagogiques.
-- Se familiariser et tenir compte du cadre d'enseignement au collégial
-- Préparation et présentation d'activités d'enseignement
+- Élaboration et présentation d'activités d'apprentissage qui tiennent compte des réalités collégiales et des pratiques pédagogiques appropriées
 
 ### Maitrise | Écologie computationnelle
 
