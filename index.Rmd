@@ -73,19 +73,25 @@ Main
 Profil {data-icon=user data-concise=true}
 --------------------------------------------------------------------------------
 
-Expérience dans l'encadrement de jeunes adultes en situation d'aprentissage et de développement
-Développement de matériel d'enseignement
-Présentation d'ateliers de science et de biologie
-Expérience comme conférencier au secondaire
+> Expérience dans l'encadrement de jeunes adultes en situation d'aprentissage et de développement ; <br>
+> Développement de matériel d'enseignement ; <br>
+> Présentation d'ateliers de science et de biologie ; <br>
+> Expérience comme conférencier au secondaire ; <br>
+> Expérience de rédaction de matériel écrit comme support d'apprentissage ; <br>
+> Implication dans multiples projets et groupes de travail ; <br>
 
 
 Compétences clés {data-icon=bookmark data-concise=true}
 --------------------------------------------------------------------------------
 
 Excellente connaissances des techniques d'enseignement
+
 Intervention auprès de jeunes adultes en milieu sportif
+
 Compétences numériques
+
 Connaissances des grands domaines de la biologie et des principaux concepts
+
 Bonne gestion de groupe
 
 
@@ -110,9 +116,7 @@ Sherbrooke, CA
 
 2019 - 2021
 
-- Développement d'une nouvelle méthode pour simuler la réponse des espèces aux changements climatiques
-- Écologie théorique | Analyses statistiques | Modélisation mathématique
-- Boursier du programme de formation en science de la biodiversité BIOS2
+- Étude des effets des changements climatiques sur les dynamiques de la distribution de la biodiversité
 
 ### Microprogramme de 2e cycle en interactions scientifiques
 
@@ -122,9 +126,7 @@ Sherbrooke, CA
 
 2019 - 2021
 
-- Animer des discussions et communiquer efficacement des résultats et concepts scientifiques
-- Approfondir des thèmes spécialisés et apprendre à rédiger des rapports de synthèse et articles
-- Développer ses réflexions et analyses critiques des problématiques du domaine de la biologie 
+- Animer des discussions, communiquer efficacement des concepts scientifiques et développer ses réflexions sur des problématiques du domaine de la biologie 
 
 ### Baccalauréat en biologie | Diplôme Honours
 
@@ -134,11 +136,10 @@ Montréal, CA
 
 2015 - 2019
 
-- Projet de recherche Honours (Hargreaves Lab): Écologie, dynamiques de la portée des distributions
-- Projet de recherche indépendant (Ricciardi Lab): Écologie, réponses fonctionnelles avec une espèce invasive
-- Mineure en histoire naturelle
+- Projets de recherche en écologie : dynamiques de la portée des distributions (Hargreaves Lab) et impacts écosystémiques d'une espèce invasive (Ricciardi Lab)
+- Concentration mineure en histoire naturelle
 
-### DEC | Sciences de la nature
+### DEC | Sciences de la nature, sport étude
 
 Collège Montmorency (31.6)
 
@@ -146,9 +147,7 @@ Laval, CA
 
 2012 - 2015
 
-- Cours suivis: Évolution et diversité du vivant, Structure et fonctionnement du vivant et Régulation de l'homéostasie chez l'être humain
-- Projet d'intégration en biologie portant sur la capacité antibiotique de produits naturels en circulation libre
-- Parcours effectué en sport-étude
+- Cours suivis en parallèle à un parcours compétitif de niveau nationnal. 
 
 
 Enseignement {data-icon=chalkboard-teacher}
@@ -162,11 +161,9 @@ Sherbrooke, Ca
 
 2021
 
-- Développement et animation d'un atelier sur la pratique de la science et sur les études postsecondaires en science 
-- Présentation du parcours et des travaux de recherche
-- Rencontres orientantes avec les étudiants en sciences de l'école secondaire La Montée afin de leur faire découvrir les sciences
+- Développement et animation d'un atelier sur la pratique de la science et sur les études postsecondaires en science dans le cadre de rencontres orientantes
 
-### Atelier sur les modèles linéaires généralisés
+### Co-rédaction d'un livre d'accompagnement aux ateliers du centre des sciences de la biodiversité du Québec
 
 CSBQ
 
@@ -174,30 +171,18 @@ Montréal, CA
 
 2021
 
-- Atelier sur les fondements et l'utilisation d'une méthode d'analyse statistique
-- Atelier développé pour et présenté aux étudiants gradués et au corps facultaire des universités du Québec
+- Développement du matériel écrit servant à la formation
 
-### Charger et manipuler des données
-
-CSBQ
-
-Montréal, CA
-
-2020
-
-- Atelier sur les fondements et l'utilisation de données pour en faire l'analyse
-- Atelier développé pour et présenté aux étudiants gradués et au corps facultaire des universités du Québec
-
-### Introduction à R
+### Présentation d'ateliers d'introduction aux outils en science de la biodiversité
 
 CSBQ
 
 Montréal, CA
 
-2020
+2020 - 2021
 
-- Atelier d'introduction au langage de programmation R
-- Atelier développé pour et présenté aux étudiants gradués et au corps facultaire des universités du Québec
+- Développement et présentation d'ateliers d'introduction aux étudiants gradués et au corps facultaire des universités du Québec visant à développer les compétences numériques nécessaires aux sciences de la biodiversité
+
 
 
 Expériences professionnelles {data-icon=suitcase data-concise=true}
@@ -212,8 +197,8 @@ Sherbrooke, CA
 2011 - Aujourd'hui
 
 - Auparavant à [Club de patinage de vitesse de Laval](https://www.patinlaval.ca/crcp/) (2011 - 2019)
-- Réalisation de sessions pour athlètes de niveau provincial et national visant à perfectionner des habiletés techniques, physiques et à offrir un environnement optimal pour la performance
-- Planifier des sessions qui ont des objectifs précis et assurer leur réalisation
+- Réalisation de sessions d'entrainement visant à perfectionner des habiletés techniques, tactiques, physiques et à offrir un environnement optimal pour le développement d'athlètes
+- Planification de sessions répondant à des objectifs précis
 
 ### Entraineur-chef
 
@@ -229,26 +214,15 @@ Laval, CA
 Bourses et prix {data-icon=star}
 --------------------------------------------------------------------------------
 
-### Bourse de recherche (8750$)
+### Bourse de recherche (11667$)
 
 [BIOS2](http://bios2.usherbrooke.ca/fr/accueil-2/)
 
 Sherbrooke, CA
 
-2020
+2020 - 2021
 
 - Bourse obtenue suite à un concours où un comité évalue les candidatures et les propositions de projet dans un processus anonyme
-
-
-### Prix d’apprentissage et de développement (125$)
-
-[Centre québécois des sciences de la biodiversité (CSBQ)](https://qcbs.ca/fr/)
-
-Montréal, CA
-
-2020
-
-- Bourse obtenue pour la participation en tant que formateur aux ateliers R (programmation et statistiques)
 
   
 ### Mention du doyen pour la recherche multidisciplinaire au premier cycle
@@ -260,7 +234,6 @@ Montréal, CA
 2019
 
 - La mention est accordée aux étudiants ayant complété différents projets de recherche indépendants dans au moins deux départements distincts de l'université 
-- L'obtention de cet honneur s'est faite parce que j'ai mené un projet au Musée Redpath et un autre au département de biologie
   
 ### Bourse régionale sport-étude de la Fondation Desjardins (500$)
 
@@ -270,97 +243,5 @@ Laval, CA
 
 2015
 
-- La bourse régionale de la fondation sport-étude récompense les étudiants-athlètes méritants pour leur succès au niveau des résultats académiques et sportifs. La bourse est remise à l'étudiant-athlète de la région présentant les meilleures performances.
-
-### Vice - champion canadien au 500m et au relais
-
-Patinage de vitesse
-
-Canada
-
-2013
-
-
-Publications (Peer-reviewed journals) {data-icon=book}
---------------------------------------------------------------------------------
-
-### Spatial distribution and conservation hotspots of mammals in Canada
-
-FACETS <a href="{https://doi.org/10.1139/facets-2020-0018}" target="_blank"><i class="ai ai-doi"></i></a>
-
-N/A
-
-2020
-
-<span style="text-decoration: underline;">Cameron, V.</span>, & Hargreaves, A. L.
-
-
-Formation scientifique {data-icon=flask data-concise=true}
---------------------------------------------------------------------------------
-
-### BIOS2-G3E working group
-
-BIOS2 & G3E
-
-N/A
-
-2021
-
-- Analyse primaire de l’impact des changements climatiques sur la biodiversité des petits cours d’eau du Québec
-
-### CIEE - BIOS2 synthesis working group
-
-CIEE & BIOS2
-
-N/A
-
-2020
-
-- Synthétiser 50 ans de changements d'abondance et de composition chez les poissons et mollusques du golfe du Saint-Laurent
-
-
-### Stage à Conservation de la Nature Canada
-
-[Conservation de la Nature Canada](https://www.natureconservancy.ca/fr/)
-
-Montréal, CA
-
-2020
-
-- Conception d'un outil de science citoyenne pour la collection de données sur le terrain
-
-### Projet de recherche Honours
-
-[Hargreaves Lab](https://annahargreaves.wixsite.com/home)
-
-Montréal, CA
-
-2018 - 2019
-
-- Écologie | Étude de l'effet de la distribution des mammifères 'canadiens' sur leur statut de conservation et sur les régions à prioriser pour la conservation de ces espèces
-- Analyse de données et statistiques sur R | Data science | Données spatiales de COSEWIC et de IUCN
-
-### Projet de recherche indépendant
-
-[Ricciardi Lab](http://redpath-staff.mcgill.ca/ricciardi/)
-
-Montréal, CA
-
-2018
-
-- Écologie | Étude de l'effet de l'habitat sur l'impact qu'une espèce invasive (Gobie) a sur les communautés du Saint-Laurent
-- Expériences en laboratoire et analyse de données sur R | Réponses fonctionnelles | Interaction prédateur-proie
-
-Conférences et affiches {data-icon=chalkboard}
---------------------------------------------------------------------------------
-
-### Spatial distribution and conservation of terrestrial mammals in Canada
-
-Colloque annuel du QCBS
-
-Montréal, CA
-
-2019
-
-- ([Affiche](https://github.com/vcameron1/resume/docs/CSBQ2019.pdf))
+- La bourse régionale de la fondation sport-étude récompense l'étudiant-athlète pour son succès au niveau des résultats académiques et sportifs. 
 
