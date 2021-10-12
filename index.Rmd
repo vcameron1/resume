@@ -225,6 +225,16 @@ N/A
 Formation scientifique {data-icon=flask data-concise=true}
 --------------------------------------------------------------------------------
 
+### École d'été en modélisation de la biodiversité | Modèles Bayesiens
+
+Université de Sherbrooke & BIOS2
+
+N/A
+
+2021
+
+- Méthodes pour ajuster les modèles aux données écologiques
+
 ### BIOS2-G3E working group
 
 BIOS2 & G3E
