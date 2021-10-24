@@ -14,20 +14,11 @@ Aside
 Coordonnées
 ------------------------------------
 
-<i class="fa fa-map-marker-alt"></i> 1360 rue Prunier, Sherbrooke, J1k 2J7<br>
+<i class="fa fa-map-marker-alt"></i> 1360 rue Prunier,<br> Sherbrooke, J1k 2J7<br>
 <i class="fa fa-mobile"></i> (438) 825-6245<br>
 <i class="fa fa-envelope"></i> victor.cameron@usherbrooke.ca<br>
 <i class="fa fa-github"></i> [vcameron1](https://github.com/vcameron1)<br>
 <i class="ai ai-google-scholar"></i> [Publications](https://scholar.google.com/citations?user=5syOaukAAAAJ&hl=fr)<br>
-
-
-Expérience
-------------------------------------
-
-**Entraineur**
-**Enseignement**
-**Formations**
-**Ateliers**
 
 
 Langues
@@ -59,40 +50,67 @@ Dernière mise à jour `r Sys.Date()`.
 
 
 Main
-================================================================================
+=======================================================================
 
  <span style="font-weight:600">Victor Cameron</span> <span style="font-size: 13px;"></span>{#title}
---------------------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 
-<span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-laptop"></i> >  Biologiste, enseignant et scientifique des données </span>
+<span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-laptop"></i> >  Biologiste, enseignant et entraineur sportif </span>
 
 <span style="font-size: 1rem;">< <i class="fa fa-tree"></i> + <i class="fa fa-bicycle"></i> > Athlète accompli et passionné de la nature
 
+<br>
 
-Profil {data-icon=user data-concise=true}
+### Profil
+
+- Expérience dans l'encadrement de jeunes adultes en situation d'apprentissage
+- Développement de matériel d'enseignement
+- Présentation d'ateliers de science et de biologie
+- Implication variée dans de multiples projets et groupes de travail
+- Ultra marathonien
+
+### Compétences clés 
+
+- Pédagogie de l'enseignement 
+- Intervention auprès de jeunes adultes en milieu sportif
+- Compétences numériques
+- Connaissances des grands domaines de la biologie et des principaux concepts
+- Bonne gestion de groupe
+
+
+Enseignement {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-> Expérience dans l'encadrement de jeunes adultes en situation d'aprentissage et de développement ; <br>
-> Développement de matériel d'enseignement ; <br>
-> Présentation d'ateliers de science et de biologie ; <br>
-> Expérience comme conférencier au secondaire ; <br>
-> Expérience de rédaction de matériel écrit comme support d'apprentissage ; <br>
-> Implication dans multiples projets et groupes de travail ; <br>
+### Atelier sur le parcours en science postsecondaire
 
+École secondaire La Montée
 
-Compétences clés {data-icon=bookmark data-concise=true}
---------------------------------------------------------------------------------
+Sherbrooke, Ca
 
-Excellente connaissances des techniques d'enseignement
+2021
 
-Intervention auprès de jeunes adultes en milieu sportif
+- Développement et animation d'un atelier sur la pratique de la science et sur les études postsecondaires en science dans le cadre de rencontres orientantes
 
-Compétences numériques
+### Co-rédaction d'un livre d'accompagnement aux ateliers du centre des sciences de la biodiversité du Québec
 
-Connaissances des grands domaines de la biologie et des principaux concepts
+CSBQ
 
-Bonne gestion de groupe
+Montréal, CA
+
+2021
+
+- Développement du matériel écrit servant à la formation
+
+### Présentation d'ateliers d'introduction aux outils en science de la biodiversité
+
+CSBQ
+
+Montréal, CA
+
+2020 - 2021
+
+- Développement et présentation d'ateliers d'introduction aux étudiants gradués et au corps facultaire des universités du Québec visant à développer les compétences numériques nécessaires aux sciences de la biodiversité
 
 
 Éducation {data-icon=graduation-cap data-concise=true}
@@ -104,7 +122,7 @@ Bonne gestion de groupe
 
 Sherbrooke, CA
 
-2021
+2021 - 2022
 
 - Élaboration et présentation d'activités d'apprentissage qui tiennent compte des réalités collégiales et des pratiques pédagogiques appropriées
 
@@ -147,42 +165,7 @@ Laval, CA
 
 2012 - 2015
 
-- Cours suivis en parallèle à un parcours compétitif de niveau nationnal. 
-
-
-Enseignement {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Atelier sur le parcours en science postsecondaire
-
-École secondaire La Montée
-
-Sherbrooke, Ca
-
-2021
-
-- Développement et animation d'un atelier sur la pratique de la science et sur les études postsecondaires en science dans le cadre de rencontres orientantes
-
-### Co-rédaction d'un livre d'accompagnement aux ateliers du centre des sciences de la biodiversité du Québec
-
-CSBQ
-
-Montréal, CA
-
-2021
-
-- Développement du matériel écrit servant à la formation
-
-### Présentation d'ateliers d'introduction aux outils en science de la biodiversité
-
-CSBQ
-
-Montréal, CA
-
-2020 - 2021
-
-- Développement et présentation d'ateliers d'introduction aux étudiants gradués et au corps facultaire des universités du Québec visant à développer les compétences numériques nécessaires aux sciences de la biodiversité
-
+- Cours suivis en parallèle à un parcours compétitif de niveau national. 
 
 
 Expériences professionnelles {data-icon=suitcase data-concise=true}
