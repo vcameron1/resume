@@ -1,12 +1,46 @@
+@page{
+  size: letter portrait;
+  margin: 0;
+}
+
+*{
+  box-sizing: border-box;
+}
+
 :root {
-  --sidebar-width: 11.5rem;
+  --page-width: 8.5in;
+  --page-height: 11in;
+  --main-width: 6.1in;
+  --margin-top: 0.25in;
+
+  --sidebar-width: calc(var(--page-width) - var(--main-width));
+ 
+  --sidebar-background-color: rgb(255, 255, 255);
+  
+  --decorator-border: 1px solid rgb(136, 189, 188);
+
+  --sidebar-horizontal-padding: 0.2in;
+
+
+
+  --row-blocks-padding-top: 5pt;
+ 
+  --viewer-background-color: #dcdcdc;
+  --viewer-shadow-color: #313131;
+
+}
+
+element.style {
+  column-width: 816px;
+  padding-top: 50px;
 }
 
 [data-id="main"] {
-    padding-top: 0px;
-  padding-right: 16px;
+  padding-top: 16px;
+  padding-right: 10px;
   padding-bottom: 0px;
-  padding-left: 0px;
+  padding-left: 10px;
+  padding: 0.3in 0.1in 0 0.1in;
   font-size: 0.8rem;
   float: left;
 }
@@ -56,22 +90,6 @@ a {
   margin-top: 0.3in;
 }
 
-.pagedjs_page:first-of-type {
-  --sidebar-background-color: rgb(136, 189, 188);
+.main-block.concise .details div:not(.concise) {
+  padding: 0;
 }
-
-.pagedjs_page:not(:first-of-type) {
-  --sidebar-background-color: rgb(136, 189, 188);
-  --sidebar-width: 2rem;
-  --main-width: calc(var(--content-width) - var(--sidebar-width));
-  --pagedjs-margin-top: 0.5in;
-}
-
-.pagedjs_page {
-  --pagedjs-margin-right: 0.25in;
-  --pagedjs-margin-top: 0.7in;
-}
-
-
-
-
