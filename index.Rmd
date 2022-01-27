@@ -14,21 +14,20 @@ Aside
 Coordonnées
 ------------------------------------
 
-<i class="fa fa-envelope"></i> vcameron.mail@gmail.com<br>
-<i class="fa fa-twitter"></i> [CameronVictor5](https://twitter.com/CameronVictor5)<br>
+<i class="fa fa-envelope"></i> victor.cameron@usherbrooke.ca<br>
+<!-- <i class="fa fa-twitter"></i> [CameronVictor5](https://twitter.com/CameronVictor5)<br> -->
 <i class="fa fa-github"></i> [vcameron1](https://github.com/vcameron1)<br>
 <i class="ai ai-google-scholar"></i> [Publications](https://scholar.google.com/citations?user=5syOaukAAAAJ&hl=fr)<br>
 <i class="ai ai-orcid"></i> [0000-0003-0624-4201](https://orcid.org/0000-0003-0624-4201)<br>
 
 
-Programmation
+Expertise
 ------------------------------------
-
+<span style="font-weight:600;">Écologie</span> <br>
+<span style="font-weight:600;">Programmation</span>: <br>R, C++<br>
 <span style="font-weight:600;">Analyse et représentation de données</span>: <br>R, C++<br>
-
 <span style="font-weight:600;">Base de données</span>: <br>SQLite <br>(Connaissances de base)<br>
-
-<span style="font-weight:600;">Automation de raports</span>: <br>Markdown, Git, Bash, LaTeX, pandoc, makefile<br> 
+<span style="font-weight:600;">Rédaction et présentation</span>: <br>Suite Ms Office, Google Slides, Markdown, LaTeX<br>
 
 
 Langues
@@ -54,17 +53,44 @@ Dernière mise à jour `r Sys.Date()`.
 Main
 ================================================================================
 
- <span style="font-weight:600">Victor Cameron</span> <span style="font-size: 13px;">BSc.</span>{#title}
+ <span style="font-weight:600">Victor Cameron</span> <span style="font-size: 13px;">MSc.</span>{#title}
 --------------------------------------------------------------------------------
 
 
-<span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-laptop"></i> >  Écologiste quantitatif, enseignant et scientifique des données en devenir </span>
+<span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-laptop"></i> > Écologiste, communicateur et scientifique des données en devenir </span>
 
 <span style="font-size: 1rem;">< <i class="fa fa-tree"></i> + <i class="fa fa-bicycle"></i> > Athlète accompli et passionné de la nature
+
+<br>
+
+### Profil
+
+- Formation en écologie numérique
+- Expérience en science des données 
+- Développement de formations numériques et d'écologie
+- Leadership dans la gestion et le développement de projet
+<!--- Ultra marathonien -->
+
+### Compétences clés 
+
+- Compétences en programmation, en statistique et en analyse de données
+- Conceptualisation d'analyses et de visualisation sommatives
+- Développement de librairies numériques
+- Pédagogie de l'enseignement
 
 
 Éducation {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
+
+### Maitrise de type recherche | Écologie numérique
+
+[Laboratoire d'écologie intégrative](http://ielab.recherche.usherbrooke.ca) - Université de Sherbrooke
+
+Sherbrooke, CA
+
+2019 - 2022
+
+- Étude des effets des changements climatiques sur les dynamiques de la distribution de la biodiversité
 
 ### Microprogramme de 2e cycle de formation initiale en enseignement au collégial (MIFIEC)
 
@@ -72,23 +98,9 @@ Main
 
 Sherbrooke, CA
 
-2021
+2021 - 2022
 
-- Élaboration de situations d'apprentissage qui tiennent compte des caractéristiques personnelles des élèves et des pratiques pédagogiques.
-- Se familiariser et tenir compte du cadre d'enseignement au collégial
-- Préparation et présentation d'activités d'enseignement
-
-### Candidat à la Maitrise | Écologie computationnelle
-
-[Laboratoire d'écologie intégrative](http://ielab.recherche.usherbrooke.ca) - Université de Sherbrooke
-
-Sherbrooke, CA
-
-2019 - 2021
-
-- Développement d'une nouvelle méthode pour simuler la réponse des espèces aux changements climatiques
-- Écologie théorique | Analyses statistiques | Modélisation mathématique | Méthodes bayésiennes
-- Boursier du programme de formation en science de la biodiversité BIOS2
+- Élaboration et présentation d’activités d’apprentissage qui tiennent compte des pratiques pédagogiques appropriées
 
 ### Microprogramme de 2e cycle en interactions scientifiques
   
@@ -98,9 +110,7 @@ Sherbrooke, CA
   
 2019 - 2021
   
-- Animer des discussions et communiquer efficacement des résultats et concepts scientifiques
-- Approfondir des thèmes spécialisés et apprendre à rédiger des rapports de synthèse et articles
-- Développer ses réflexions et analyses critiques des problématiques du domaine de la biologie 
+- Animer des discussions, communiquer efficacement des concepts scientifiques et développer ses réflexions sur des problématiques du domaine de la biologie 
 
 ### Baccalauréat en biologie | Diplôme Honours
 
@@ -110,10 +120,20 @@ Montréal, CA
 
 2015 - 2019
 
-- Projet Honours (Hargreaves Lab): Écologie, dynamiques de la portée des distributions
-- Projet de recherche indépendant (Ricciardi Lab): Écologie, réponses fonctionnelles avec une espèce invasive
-- Mineure en histoire naturelle
+- Projets de recherche en écologie : dynamiques de la portée des distributions (Hargreaves Lab) et impacts écosystémiques d’une espèce invasive (Ricciardi Lab)
+- Concentration mineure en histoire naturelle
 
+<!--
+### DEC | Sciences de la nature, sport étude
+
+Collège Montmorency (31.6)
+
+Laval, CA
+
+2012 - 2015
+
+- Cours suivis en parallèle à un parcours compétitif de niveau national. 
+-->
 
 Expériences Professionnelles {data-icon=suitcase data-concise=true}
 --------------------------------------------------------------------------------
@@ -127,8 +147,76 @@ Sherbrooke, CA
 2011 - Aujourd'hui
 
 - Auparavant à [Club de patinage de vitesse de Laval](https://www.patinlaval.ca/crcp/) (2011 - 2019)
-- Réalisation de sessions pour athlètes de niveau provincial et national visant à perfectionner des habiletés techniques, physiques et à offrir un environnement optimal pour la performance
-- Planifier des sessions qui ont des objectifs précis et assurer leur réalisation
+- Réalisation de sessions d’entrainement visant à perfectionner des habiletés techniques, tactiques, physiques et à offrir un environnement optimal pour le développement d’athlètes
+- Planification de sessions répondant à des objectifs précis
+
+### Atelier sur le parcours en science postsecondaire
+
+École secondaire La Montée
+
+Sherbrooke, Ca
+
+2021
+
+- Développement et animation d'un atelier sur la pratique de la science et sur les études postsecondaires en science 
+  - Présentation du parcours et des travaux de recherche
+  - Rencontres orientantes avec les étudiants en sciences de l'école secondaire La Montée afin de leur faire découvrir les sciences
+
+### Co-rédaction d'un livre d'accompagnement aux ateliers du centre des sciences de la biodiversité du Québec
+
+CSBQ
+
+Montréal, CA
+
+2021
+
+- Développement du matériel écrit servant à la formation
+
+### Présentation d'ateliers d'introduction aux outils en science de la biodiversité
+
+CSBQ
+
+Montréal, CA
+
+2020 - 2021
+
+- Développement et présentation d'ateliers d'introduction aux étudiants gradués et au corps facultaire des universités du Québec visant à développer les compétences numériques nécessaires aux sciences de la biodiversité
+
+<!--
+### Atelier sur les modèles linéaires généralisés
+
+CSBQ
+
+Montréal, CA
+
+2021
+
+- Atelier sur les fondements et l'utilisation d'une méthode d'analyse statistique
+- Atelier développé pour et présenté aux étudiants gradués et au corps facultaire des universités du Québec
+  
+### Charger et manipuler des données
+  
+CSBQ
+  
+Montréal, CA
+  
+2020
+  
+- Atelier sur les fondements et l'utilisation de données pour en faire l'analyse
+- Atelier développé pour et présenté aux étudiants gradués et au corps facultaire des universités du Québec
+  
+### Introduction à R
+  
+CSBQ
+  
+Montréal, CA
+  
+2020
+  
+- Atelier d'introduction au langage de programmation R
+- Atelier développé pour et présenté aux étudiants gradués et au corps facultaire des universités du Québec
+
+-->
 
 ### Entraineur-chef
 
@@ -140,7 +228,7 @@ Laval, CA
 
 - Gestion d'une école de patin de 125 jeunes de 4 à 15 ans et d'une équipe d'entraineurs, d'assistants et d'aides
 
-
+<!--
 ### Aide Technicien en climatisation/chauffage
 
 [Thermo-teck](https://www.pagesjaunes.ca/bus/Quebec/Saint-Laurent/Thermo-Teck/101954778.html)
@@ -151,12 +239,12 @@ Montréal, CA
 
 - Installation et réparation de systèmes de climatisation/chauffage
 - Travail manuel et résolution de problèmes
-
+-->
 
 Bourses et prix {data-icon=star}
 --------------------------------------------------------------------------------
 
-### Bourse de recherche (8750$)
+### Bourse de recherche (11667$)
 
 [BIOS2](http://bios2.usherbrooke.ca/fr/accueil-2/)
 
@@ -166,18 +254,6 @@ Sherbrooke, CA
 
 - Bourse obtenue suite à un concours où un comité évalue les candidatures et les propositions de projet dans un processus anonyme
 
-
-### Prix d’apprentissage et de développement (125$)
-
-[Centre québécois des sciences de la biodiversité (CSBQ)](https://qcbs.ca/fr/)
-
-Montréal, CA
-
-2020
-
-- Bourse obtenue pour la participation en tant que formateur aux ateliers R (programmation et statistiques)
-
-  
 ### Mention du doyen pour la recherche multidisciplinaire au premier cycle
 
 Université McGill
@@ -186,8 +262,7 @@ Montréal, CA
 
 2019
 
-- La mention est accordée aux étudiants ayant complété différents projets de recherche indépendants dans au moins deux départements distincts de l'université 
-- L'obtention de cet honneur s'est faite parce que j'ai mené un projet au Musée Redpath et un autre au département de biologie
+- La mention est accordée aux étudiants ayant complété différents projets de recherche indépendants dans au moins deux départements distincts de l’université
   
 ### Bourse régionale sport-étude de la Fondation Desjardins (500$)
 
@@ -197,7 +272,9 @@ Laval, CA
 
 2015
 
-- La bourse régionale de la fondation sport-étude récompense les étudiants-athlètes méritants pour leur succès au niveau des résultats académiques et sportifs. La bourse est remise à l'étudiant-athlète de la région présentant les meilleures performances.
+- La bourse régionale de la fondation sport-étude récompense l’étudiant-athlète pour son succès au niveau des résultats académiques et sportifs
+
+<!--
 
 ### Vice - champion canadien au 500m et au relais
 
@@ -206,7 +283,7 @@ Patinage de vitesse
 Canada
 
 2013
-
+-->
 
 Publications (Peer-reviewed journals) {data-icon=book}
 --------------------------------------------------------------------------------
@@ -221,9 +298,29 @@ N/A
 
 <span style="text-decoration: underline;">Cameron, V.</span>, & Hargreaves, A. L.
 
+### Spatial structure is more than habitat amount: a metapopulation approach is necessary to capture distribution changes under climate change
+
+En préparation
+
+N/A
+
+2022
+
+<span style="text-decoration: underline;">Cameron, V.</span>, Blanchet, G., Boulanger, Y., Tremblay, J., & Gravel, D.
+
 
 Formation scientifique {data-icon=flask data-concise=true}
 --------------------------------------------------------------------------------
+
+### Stage à Ressources Naturelles Canada
+
+Ressources Naturelles Canada
+
+N/A
+
+2021
+
+- Modélisation des changements de distribution en réponse aux changements climatiques d'une espèce menacée (Grive de Bicknell)
 
 ### École d'été en modélisation de la biodiversité | Modèles Bayesiens
 
@@ -288,6 +385,7 @@ Montréal, CA
 - Écologie | Étude de l'effet de l'habitat sur l'impact qu'une espèce invasive (Gobie) a sur les communautés du Saint-Laurent
 - Expériences en laboratoire et analyse de données sur R | Réponses fonctionnelles | Interaction prédateur-proie
 
+<!--
 Conférences et affiches {data-icon=chalkboard}
 --------------------------------------------------------------------------------
 
@@ -300,55 +398,6 @@ Montréal, CA
 2019
 
 - ([poster](https://github.com/vcameron1/resume/docs/CSBQ2019.pdf))
-
-
-Enseignement {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Atelier sur le parcours en science postsecondaire
-
-École secondaire La Montée
-
-Sherbrooke, Ca
-
-2021
-
-- Développement et animation d'un atelier sur la pratique de la science et sur les études postsecondaires en science 
-  - Présentation du parcours et des travaux de recherche
-  - Rencontres orientantes avec les étudiants en sciences de l'école secondaire La Montée afin de leur faire découvrir les sciences
-
-### Atelier sur les modèles linéaires généralisés
-
-CSBQ
-
-Montréal, CA
-
-2021
-
-- Atelier sur les fondements et l'utilisation d'une méthode d'analyse statistique
-- Atelier développé pour et présenté aux étudiants gradués et au corps facultaire des universités du Québec
-  
-### Charger et manipuler des données
-  
-CSBQ
-  
-Montréal, CA
-  
-2020
-  
-- Atelier sur les fondements et l'utilisation de données pour en faire l'analyse
-- Atelier développé pour et présenté aux étudiants gradués et au corps facultaire des universités du Québec
-  
-### Introduction à R
-  
-CSBQ
-  
-Montréal, CA
-  
-2020
-  
-- Atelier d'introduction au langage de programmation R
-- Atelier développé pour et présenté aux étudiants gradués et au corps facultaire des universités du Québec
 
 
 Certifications {data-icon=certificate}
@@ -377,3 +426,4 @@ Gouvernement du Québec
 N/A
 
 2011
+-->
