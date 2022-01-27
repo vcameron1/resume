@@ -53,11 +53,11 @@ Dernière mise à jour `r Sys.Date()`.
 Main
 ================================================================================
 
- <span style="font-weight:600">Victor Cameron</span> <span style="font-size: 13px;">MSc.</span>{#title}
+ <span style="font-weight:600">Victor Cameron</span> <span style="font-size: 13px;"> <!--MSc.--></span>{#title}
 --------------------------------------------------------------------------------
 
 
-<span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-laptop"></i> > Écologiste, communicateur et scientifique des données en devenir </span>
+<span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-laptop"></i> > Écologiste, communicateur et scientifique des données </span>
 
 <span style="font-size: 1rem;">< <i class="fa fa-tree"></i> + <i class="fa fa-bicycle"></i> > Athlète accompli et passionné de la nature
 
@@ -284,7 +284,7 @@ Canada
 
 2013
 -->
-
+<!--
 Publications (Peer-reviewed journals) {data-icon=book}
 --------------------------------------------------------------------------------
 
@@ -307,7 +307,7 @@ N/A
 2022
 
 <span style="text-decoration: underline;">Cameron, V.</span>, Blanchet, G., Boulanger, Y., Tremblay, J., & Gravel, D.
-
+-->
 
 Formation scientifique {data-icon=flask data-concise=true}
 --------------------------------------------------------------------------------
