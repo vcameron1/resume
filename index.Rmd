@@ -16,7 +16,7 @@ Coordonnées
 
 <i class="fa fa-map-marker-alt"></i> 1360 rue Prunier,<br> Sherbrooke, J1k 2J7<br>
 <i class="fa fa-mobile"></i> (438) 825-6245<br>
-<i class="fa fa-envelope"></i> victor.cameron@usherbrooke.ca<br>
+<i class="fa fa-envelope"></i> vcameron.mail@gmail.com<br>
 <i class="fa fa-github"></i> [vcameron1](https://github.com/vcameron1)<br>
 <i class="ai ai-google-scholar"></i> [Publications](https://scholar.google.com/citations?user=5syOaukAAAAJ&hl=fr)<br>
 
@@ -132,7 +132,7 @@ Sherbrooke, CA
 
 Sherbrooke, CA
 
-2019 - 2021
+2019 - 2022
 
 - Étude des effets des changements climatiques sur les dynamiques de la distribution de la biodiversité
 
@@ -170,6 +170,16 @@ Laval, CA
 
 Expériences professionnelles {data-icon=suitcase data-concise=true}
 --------------------------------------------------------------------------------
+
+### Professionnel de recherche pour Biodiversité-Québec
+
+[Université de Sherbrooke](https://www.usherbrooke.ca)
+
+Sherbrooke, CA
+
+2022 - Aujourd'hui
+
+- Spécialiste de l'intégration, de analyse et de la communication des données et des analyses.
 
 ### Entraineur de patinage de vitesse 
 
