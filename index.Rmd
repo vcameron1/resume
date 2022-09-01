@@ -76,7 +76,7 @@ Main
 - Intervention auprès de jeunes adultes en milieu sportif
 - Compétences numériques
 - Connaissances des grands domaines de la biologie et des principaux concepts
-- Bonne gestion de groupe
+- Dynamisme
 
 
 Enseignement {data-icon=chalkboard-teacher}
@@ -155,6 +155,7 @@ Montréal, CA
 2015 - 2019
 
 - Projets de recherche en écologie : dynamiques de la portée des distributions (Hargreaves Lab) et impacts écosystémiques d'une espèce invasive (Ricciardi Lab)
+- Important fondement en biologie moléculaire, cellulaire, métabolisme et génétique
 - Concentration mineure en histoire naturelle
 
 ### DEC | Sciences de la nature, sport étude
@@ -165,7 +166,7 @@ Laval, CA
 
 2012 - 2015
 
-- Cours suivis en parallèle à un parcours compétitif de niveau national. 
+- Cours suivis en parallèle à un parcours compétitif de niveau national 
 
 
 Expériences professionnelles {data-icon=suitcase data-concise=true}
@@ -179,7 +180,7 @@ Sherbrooke, CA
 
 2022 - Aujourd'hui
 
-- Spécialiste de l'intégration, de analyse et de la communication des données et des analyses.
+- Spécialiste de l'intégration, de l'analyse et de la communication des données et des analyses.
 
 ### Entraineur de patinage de vitesse 
 
@@ -190,7 +191,7 @@ Sherbrooke, CA
 2011 - Aujourd'hui
 
 - Auparavant à [Club de patinage de vitesse de Laval](https://www.patinlaval.ca/crcp/) (2011 - 2019)
-- Réalisation de sessions d'entrainement visant à perfectionner des habiletés techniques, tactiques, physiques et à offrir un environnement optimal pour le développement d'athlètes
+- Réalisation de sessions d'entrainement visant à perfectionner des habiletés techniques, tactiques, physiques et à offrir un environnement optimal pour l'apprentissage
 - Planification de sessions répondant à des objectifs précis
 
 ### Entraineur-chef
