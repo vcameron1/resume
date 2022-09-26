@@ -84,31 +84,31 @@ Main
 
 ### Maitrise de type recherche | Écologie numérique
 
-[Laboratoire d'écologie intégrative](http://ielab.recherche.usherbrooke.ca) - Université de Sherbrooke
+[Laboratoire d'écologie intégrative](http://ielab.recherche.usherbrooke.ca) - Université de Sherbrooke (4.15/4.30)
 
 Sherbrooke, CA
 
-2019 - 2022
+2019-08 - 2022-05
 
 - Étude des effets des changements climatiques sur les dynamiques de la distribution de la biodiversité
 
 ### Microprogramme de 2e cycle de formation initiale en enseignement au collégial (MIFIEC)
 
-[Faculté d'enseignement](https://www.usherbrooke.ca/education/) - Université de Sherbrooke
+[Faculté d'enseignement](https://www.usherbrooke.ca/education/) - Université de Sherbrooke (4.30/4.30)
 
 Sherbrooke, CA
 
-2021 - 2022
+2021.04 - 2023
 
 - Élaboration et présentation d’activités d’apprentissage qui tiennent compte des pratiques pédagogiques appropriées
 
 ### Microprogramme de 2e cycle en interactions scientifiques
   
-[Faculté des sciences](https://www.usherbrooke.ca/sciences/) - Université de Sherbrooke
+[Faculté des sciences](https://www.usherbrooke.ca/sciences/) - Université de Sherbrooke (4.30/4.30)
   
 Sherbrooke, CA
   
-2019 - 2021
+2019-08 - 2021-12
   
 - Animer des discussions, communiquer efficacement des concepts scientifiques et développer ses réflexions sur des problématiques du domaine de la biologie 
 
@@ -118,7 +118,7 @@ Université McGill (3.60/4.00)
 
 Montréal, CA
 
-2015 - 2019
+2015-08 - 2019-04
 
 - Projets de recherche en écologie : dynamiques de la portée des distributions (Hargreaves Lab) et impacts écosystémiques d’une espèce invasive (Ricciardi Lab)
 - Concentration mineure en histoire naturelle
@@ -129,7 +129,7 @@ Collège Montmorency (31.6)
 
 Laval, CA
 
-2012 - 2015
+2012-08 - 2015-05
 
 - Cours suivis en parallèle à un parcours compétitif de niveau national
 
@@ -316,6 +316,16 @@ N/A
 
 <span style="text-decoration: underline;">Cameron, V.</span>, Blanchet, G., Boulanger, Y., Tremblay, J., & Gravel, D.
 
+### Concurrent impacts of climate change and top-down pressure on the biodiversity over 50 years in the Gulf of Saint-Lawrence
+
+En préparation
+
+N/A
+
+2022
+
+<span style="text-decoration: underline;">Blanchet, G.F., Brookson, C., Cameron, V., Favot, E.J., Florko K., Hebert, K., Fernandez-Fournier, P., Martinez-Lanfranco, J., Denomme-Brown, S., Derrick, D., Stark, K., & Rolland, N.
+
 
 Formation scientifique {data-icon=flask data-concise=true}
 --------------------------------------------------------------------------------
@@ -396,6 +406,16 @@ Montréal, CA
 
 Conférences et affiches {data-icon=chalkboard}
 --------------------------------------------------------------------------------
+
+### Distributions are more than habitat amount: The metapopulation structure is a vital element to distribution change
+
+Conférence internationale de biogéographie
+
+Vancouver, CA
+
+2022
+
+- ([présentation](https://www.biogeography.org/wp-content/uploads/2022/07/Pocket-guide-24052022.pdf))
 
 ### Spatial distribution and conservation of terrestrial mammals in Canada
 
