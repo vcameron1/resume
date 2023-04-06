@@ -65,22 +65,32 @@ Main
 
 ### Profil
 
+- Enseignant de biologie
 - Formation en écologie numérique
 - Expérience en science des données 
-- Développement de formations numériques et d'écologie
 - Leadership dans la gestion et le développement de projet
 <!--- Ultra marathonien -->
 
 ### Compétences clés 
 
+- Pédagogie de l'enseignement
 - Compétences en programmation, en statistique et en analyse de données
 - Conceptualisation d'analyses et de visualisation sommatives
 - Développement de librairies numériques
-- Pédagogie de l'enseignement
 
 
 Éducation {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
+
+### Microprogramme de 2e cycle de formation initiale en enseignement au collégial (MIFIEC)
+
+[Faculté d'enseignement](https://www.usherbrooke.ca/education/) - Université de Sherbrooke (4.30/4.30)
+
+Sherbrooke, CA
+
+2021.04 - 2023. 05
+
+- Élaboration et présentation d’activités d’apprentissage qui tiennent compte des pratiques pédagogiques appropriées
 
 ### Maitrise de type recherche | Écologie numérique
 
@@ -91,16 +101,6 @@ Sherbrooke, CA
 2019-08 - 2022-05
 
 - Étude des effets des changements climatiques sur les dynamiques de la distribution de la biodiversité
-
-### Microprogramme de 2e cycle de formation initiale en enseignement au collégial (MIFIEC)
-
-[Faculté d'enseignement](https://www.usherbrooke.ca/education/) - Université de Sherbrooke (4.30/4.30)
-
-Sherbrooke, CA
-
-2021.04 - 2023
-
-- Élaboration et présentation d’activités d’apprentissage qui tiennent compte des pratiques pédagogiques appropriées
 
 ### Microprogramme de 2e cycle en interactions scientifiques
   
@@ -136,6 +136,28 @@ Laval, CA
 
 Expériences Professionnelles {data-icon=suitcase data-concise=true}
 --------------------------------------------------------------------------------
+
+### Enseignant de biologie
+
+[Cégep de Dummondville](https://www.cegepdrummond.ca/)
+
+Drummondville, CA
+
+2023 
+
+- Élaboration et présentation d’activités d'enseignement, d’apprentissage et d'évaluation pour encourager l'apprentissage et la réflexion chez les étudiants
+- Enseignement du cours *Démystifier les maladies*
+
+### Chargé de cours
+
+Université de Sherbrooke, [Département de biologie](https://www.usherbrooke.ca/biologie/)
+
+Sherbrooke, CA
+
+2023
+
+- Élaboration et présentation d’activités d'enseignement, d’apprentissage et d'évaluation pour supporter le développement de compétences scientifiques et de la réflexion critique chez les étudiants
+- Enseignement des cours [*Introduction à la programmation scientifique*](https://www.usherbrooke.ca/admission/fiches-cours/IFT199?fp=005) et [*Méthodes en écologie computationelle*](https://www.usherbrooke.ca/admission/fiches-cours/BIO500?fp=) au programme de baccalauréat en biologie
 
 ### Éco-informaticien
 
