@@ -33,7 +33,7 @@ Expertise
 
 <span style="font-weight:600;">Biologie</span>: <br>Écologie, biologie cellulaire et moléculaire,<br> connaissances des grands systèmes biologiques chez l'humain<br>
 
-<span style="font-weight:600;">Rédaction et présentation</span>: <br>Suite Ms Office, Google Slides, Miro, Kahoot, LaTeX<br>
+<span style="font-weight:600;">Rédaction et présentation</span>: <br>Suite Ms Office, Google Slides, Miro, Wooclap, LaTeX<br>
 
 
 Disclaimer {#disclaimer}
@@ -56,7 +56,7 @@ Main
 -----------------------------------------------------------------------
 
 
-<span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-laptop"></i> >  Biologiste, enseignant et entraineur sportif </span>
+<span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-laptop"></i> > Enseignant, biologiste et entraineur sportif </span>
 
 <span style="font-size: 1rem;">< <i class="fa fa-tree"></i> + <i class="fa fa-bicycle"></i> > Athlète accompli et passionné de la nature
 
@@ -64,8 +64,7 @@ Main
 
 ### Profil
 
-- Expérience dans l'encadrement de jeunes adultes en situation d'apprentissage
-- Développement de matériel d'enseignement
+- Enseignant de biologie
 - Présentation d'ateliers de science et de biologie
 - Implication variée dans de multiples projets et groupes de travail
 - Ultra marathonien
@@ -82,6 +81,27 @@ Main
 Enseignement {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
+### Enseignant de biologie
+
+Département des sciences de la nature - [Cégep de Dummondville](https://www.cegepdrummond.ca/)
+
+Drummondville, CA
+
+2023 
+
+- Enseignement du cours *Démystifier les maladies*
+
+### Chargé de cours
+
+[Département de biologie](https://www.usherbrooke.ca/biologie/) - Université de Sherbrooke
+
+Sherbrooke, CA
+
+2023
+
+- Enseignement des cours [*Introduction à la programmation scientifique*](https://www.usherbrooke.ca/admission/fiches-cours/IFT199?fp=005) et [*Méthodes en écologie computationelle*](https://www.usherbrooke.ca/admission/fiches-cours/BIO500?fp=) au programme de baccalauréat en biologie
+
+<!-- 
 ### Atelier sur le parcours en science postsecondaire
 
 École secondaire La Montée
@@ -110,7 +130,7 @@ Montréal, CA
 
 2020 - 2021
 
-- Développement et présentation d'ateliers d'introduction aux étudiants gradués et au corps facultaire des universités du Québec visant à développer les compétences numériques nécessaires aux sciences de la biodiversité
+- Développement et présentation d'ateliers d'introduction aux étudiants gradués et au corps facultaire des universités du Québec visant à développer les compétences numériques nécessaires aux sciences de la biodiversité -->
 
 
 Éducation {data-icon=graduation-cap data-concise=true}
@@ -122,7 +142,7 @@ Montréal, CA
 
 Sherbrooke, CA
 
-2021 - 2022
+2021 - 2023
 
 - Élaboration et présentation d'activités d'apprentissage qui tiennent compte des réalités collégiales et des pratiques pédagogiques appropriées
 
