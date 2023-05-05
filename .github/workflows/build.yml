@@ -53,7 +53,9 @@ jobs:
         run: Rscript -e "rmarkdown::render('index.Rmd')"
 
       - name: Build pdf
-        run: Rscript -e "pagedown::chrome_print(input = 'index.html', output = 'index.pdf')"
+        run: |
+            Rscript -e "options(pagedown.remote.maxattempts=40); options(pagedown.remote.sleeptime=2)"
+            Rscript -e "pagedown::chrome_print(input = 'index.html', output = 'index.pdf')"
 
       - name: Prepare deployment
         run: |
