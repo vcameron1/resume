@@ -31,7 +31,7 @@ Langues
 Expertise
 ------------------------------------
 
-<span style="font-weight:600;">Biologie</span>: <br>Écologie, biologie cellulaire et moléculaire,<br> connaissances des grands systèmes biologiques chez l'humain<br>
+<span style="font-weight:600;">Biologie</span>: <br>Écologie, biologie des systèmes vivants, <br> biodiversité et conservation<br>
 
 <span style="font-weight:600;">Rédaction et présentation</span>: <br>Suite Ms Office, Google Slides, Miro, Wooclap, LaTeX<br>
 
@@ -64,17 +64,17 @@ Main
 
 ### Profil
 
-- Enseignant de biologie
-- Présentation d'ateliers de science et de biologie
-- Implication variée dans de multiples projets et groupes de travail
+- Enseignant de biologie et d'écologie
+- Écologiste chez **Biodiversité Québec**
+- Spécialiste de la biodiversité et acteur de la conservation
 - Ultra marathonien
 
-### Compétences clés 
+### Compétences clés
 
 - Pédagogie de l'enseignement 
-- Intervention auprès de jeunes adultes en milieu sportif
-- Compétences numériques
-- Connaissances des grands domaines de la biologie et des principaux concepts
+- Expérience en inventaire et en suivi de la biodiversité
+- Compétences en taxonomie
+- Expertise des enjeux de conservation
 - Dynamisme
 
 
@@ -83,13 +83,23 @@ Enseignement {data-icon=chalkboard-teacher}
 
 ### Enseignant de biologie
 
-Département des sciences de la nature - [Cégep de Saint-Hyacinthe](https://www.cegepsth.qc.ca/)
+Département de biologie - [Cégep de Saint-Hyacinthe](https://www.cegepsth.qc.ca/)
 
 Saint-Hyacinthe, CA
 
 2024 
 
 - Enseignement du cours *Anatomie et physiologie humaines 2*
+
+### Chargé de cours
+
+Département de biologie - [Université de Sherbrooke](https://www.usherbrooke.ca/biologie/)
+
+Sherbrooke, CA
+
+2023 - 2024
+
+- Enseignement au baccalauréat en écologie des cours [*Méthodes en écologie computationelle*](https://www.usherbrooke.ca/admission/fiches-cours/BIO500?fp=) et [*Introduction à la programmation scientifique*](https://www.usherbrooke.ca/admission/fiches-cours/IFT199?fp=005)
 
 ### Enseignant de biologie
 
@@ -101,15 +111,6 @@ Drummondville, CA
 
 - Enseignement du cours *Démystifier les maladies*
 
-### Chargé de cours
-
-[Département de biologie](https://www.usherbrooke.ca/biologie/) - Université de Sherbrooke
-
-Sherbrooke, CA
-
-2023 - 2024
-
-- Enseignement des cours [*Introduction à la programmation scientifique*](https://www.usherbrooke.ca/admission/fiches-cours/IFT199?fp=005) et [*Méthodes en écologie computationelle*](https://www.usherbrooke.ca/admission/fiches-cours/BIO500?fp=) au programme de baccalauréat en biologie
 
 <!-- 
 ### Atelier sur le parcours en science postsecondaire
@@ -156,7 +157,7 @@ Sherbrooke, CA
 
 - Élaboration et présentation d'activités d'apprentissage qui tiennent compte des réalités collégiales et des pratiques pédagogiques appropriées
 
-### Maitrise | Biologie
+### Maitrise | Écologie
 
 [Laboratoire d'écologie intégrative](http://ielab.recherche.usherbrooke.ca) - Université de Sherbrooke
 
@@ -164,7 +165,7 @@ Sherbrooke, CA
 
 2019 - 2022
 
-- Étude des effets des changements climatiques sur les dynamiques de la distribution de la biodiversité
+- Étude de la structure spatiale de l'habitat sur la persistence des populations en contexte de changements climatiques
 
 ### Microprogramme de 2e cycle en interactions scientifiques
 
@@ -185,8 +186,8 @@ Montréal, CA
 2015 - 2019
 
 - Projets de recherche en écologie : dynamiques de la portée des distributions (Hargreaves Lab) et impacts écosystémiques d'une espèce invasive (Ricciardi Lab)
-- Important fondement en biologie moléculaire, cellulaire, métabolisme et génétique
 - Concentration mineure en histoire naturelle
+- Formnation en biodiversité et sciences des plantes
 
 ### DEC | Sciences de la nature, sport étude
 
@@ -204,62 +205,63 @@ Expériences professionnelles {data-icon=suitcase data-concise=true}
 
 ### Professionnel de recherche pour Biodiversité-Québec
 
-[Université de Sherbrooke](https://www.usherbrooke.ca)
+[Université de Sherbrooke](https://www.biodiversite-quebec.ca)
 
 Sherbrooke, CA
 
 2022 - Aujourd'hui
 
-- Spécialiste de l'intégration, de l'analyse et de la communication des données et des analyses.
+- Spécialiste du suivi de la biodiversité et des outils de conservation
+- Responsable des données et des analyses des [inventaires terrain du Réseau de suivi de la biodiversité du Québec](https://www.biodiversite-quebec.ca/fr/inventaires/)
 
 ### Entraineur chef de patinage de vitesse 
 
 [Club de patinage de vitesse de Drummondville](https://www.facebook.com/profile.php?id=100057549995534)
 
-Sherbrooke, CA
+Drummondville, CA
 
 2011 - Aujourd'hui
 
 - Auparavant à [Club de patinage de vitesse de Laval](https://www.patinlaval.ca/crcp/) (2011 - 2019) et de [Sherbrooke](https://www.cpvs.org) (2019 - 2023)
 - Gestion des plans d'entrainement visant à perfectionner des habiletés techniques, tactiques, physiques et à offrir un environnement optimal pour l'apprentissage
-- Planification de sessions répondant à des objectifs précis
-
-### Entraineur-chef
-
-[Club de patinage de vitesse de Laval Ste-Dorothée](https://www.patinlaval.ca/ste-dorothee/)
-
-Laval, CA
-
-2013 - 2016
-
-- Gestion d'une école de patin de 125 jeunes de 4 à 15 ans et d'une équipe d'entraineurs, d'assistants et d'aides
+- Planification de sessions répondant à des objectifs précis et à des besoins individuels
 
 
-Bourses et prix {data-icon=star}
+Accomplissements {data-icon=star}
 --------------------------------------------------------------------------------
 
-### Bourse de recherche (11667$)
+### Publications scientifiques
 
-[BIOS2](http://bios2.usherbrooke.ca/fr/accueil-2/)
+N/A
 
-Sherbrooke, CA
+N/A
 
-2020 - 2021
+- Spatial distribution and conservation hotspots of mammals in Canada ([FACETS, 2020](https://doi.org/10.1139/facets-2020-0018))
+- Spatial structure is more than habitat amount: a metapopulation approach is necessary to capture distribution changes under climate change ([en préparation](https://vcameron1.github.io/Metapop_ms/))
+- Concurrent impacts of climate change and top-down pressure on the biodiversity over 50 years in the Gulf of Saint-Lawrence ([en préparation]())
+- Creating a taxonomic framework for a biodiversity monitoring network ([en préparation]())
 
-- Bourse obtenue suite à un concours où un comité évalue les candidatures et les propositions de projet dans un processus anonyme
+### Stage à Ressources Naturelles Canada
 
-  
-### Mention du doyen pour la recherche multidisciplinaire au premier cycle
+Ressources Naturelles Canada
 
-Université McGill
+N/A
+
+2021
+
+- Modélisation des changements de distribution en réponse aux changements climatiques d'une espèce menacée (Grive de Bicknell)
+
+### Stage à Conservation de la Nature Canada
+
+[Conservation de la Nature Canada](https://www.natureconservancy.ca/fr/)
 
 Montréal, CA
 
-2019
+2020
 
-- La mention est accordée aux étudiants ayant complété différents projets de recherche indépendants dans au moins deux départements distincts de l'université 
+- Conception d'un outil de science citoyenne pour la collection de données sur le terrain
   
-### Bourse régionale sport-étude de la Fondation Desjardins (500$)
+### Bourse régionale sport-étude de la Fondation Desjardins
 
 [Alliance sport-étude](https://alliancesportetudes.ca)
 
