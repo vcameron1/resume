@@ -65,15 +65,13 @@ Main
 ### Profil
 
 - Enseignant de biologie
-- Présentation d'ateliers de science et de biologie
-- Implication variée dans de multiples projets et groupes de travail
+- Expérience d'enseignement dans plusieurs contextes
 - Ultra marathonien
 
 ### Compétences clés 
 
 - Pédagogie de l'enseignement 
-- Intervention auprès de jeunes adultes en milieu sportif
-- Compétences numériques
+- Intervention auprès de jeunes adultes dans des contextes variés
 - Connaissances des grands domaines de la biologie et des principaux concepts
 - Dynamisme
 
@@ -83,23 +81,13 @@ Enseignement {data-icon=chalkboard-teacher}
 
 ### Enseignant de biologie
 
-Département des sciences de la nature - [Cégep de Saint-Hyacinthe](https://www.cegepsth.qc.ca/)
+Département de biologie - [Cégep de Saint-Hyacinthe](https://www.cegepsth.qc.ca/)
 
 Saint-Hyacinthe, CA
 
 2024 
 
 - Enseignement du cours *Anatomie et physiologie humaines 2*
-
-### Enseignant de biologie
-
-Département des sciences de la nature - [Cégep de Dummondville](https://www.cegepdrummond.ca/)
-
-Drummondville, CA
-
-2023 
-
-- Enseignement du cours *Démystifier les maladies*
 
 ### Chargé de cours
 
@@ -110,6 +98,16 @@ Sherbrooke, CA
 2023 - 2024
 
 - Enseignement des cours [*Introduction à la programmation scientifique*](https://www.usherbrooke.ca/admission/fiches-cours/IFT199?fp=005) et [*Méthodes en écologie computationelle*](https://www.usherbrooke.ca/admission/fiches-cours/BIO500?fp=) au programme de baccalauréat en biologie
+
+### Enseignant de biologie
+
+Département des sciences de la nature - [Cégep de Dummondville](https://www.cegepdrummond.ca/)
+
+Drummondville, CA
+
+2023 
+
+- Enseignement du cours *Démystifier les maladies*
 
 <!-- 
 ### Atelier sur le parcours en science postsecondaire
@@ -212,11 +210,11 @@ Sherbrooke, CA
 
 - Spécialiste de l'intégration, de l'analyse et de la communication des données et des analyses.
 
-### Entraineur chef de patinage de vitesse 
+### Entraineur chef
 
 [Club de patinage de vitesse de Drummondville](https://www.facebook.com/profile.php?id=100057549995534)
 
-Sherbrooke, CA
+Drummondville, CA
 
 2011 - Aujourd'hui
 
@@ -224,21 +222,11 @@ Sherbrooke, CA
 - Gestion des plans d'entrainement visant à perfectionner des habiletés techniques, tactiques, physiques et à offrir un environnement optimal pour l'apprentissage
 - Planification de sessions répondant à des objectifs précis
 
-### Entraineur-chef
 
-[Club de patinage de vitesse de Laval Ste-Dorothée](https://www.patinlaval.ca/ste-dorothee/)
-
-Laval, CA
-
-2013 - 2016
-
-- Gestion d'une école de patin de 125 jeunes de 4 à 15 ans et d'une équipe d'entraineurs, d'assistants et d'aides
-
-
-Bourses et prix {data-icon=star}
+Accomplissements {data-icon=star}
 --------------------------------------------------------------------------------
 
-### Bourse de recherche (11667$)
+### Bourse de recherche
 
 [BIOS2](http://bios2.usherbrooke.ca/fr/accueil-2/)
 
@@ -259,7 +247,7 @@ Montréal, CA
 
 - La mention est accordée aux étudiants ayant complété différents projets de recherche indépendants dans au moins deux départements distincts de l'université 
   
-### Bourse régionale sport-étude de la Fondation Desjardins (500$)
+### Bourse régionale sport-étude de la Fondation Desjardins
 
 [Alliance sport-étude](https://alliancesportetudes.ca)
 
