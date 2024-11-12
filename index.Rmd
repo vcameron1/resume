@@ -14,10 +14,10 @@ Aside
 Coordonnées
 ------------------------------------
 
-<i class="fa fa-map-marker-alt"></i> 1360 rue Prunier,<br> Sherbrooke, J1k 2J7<br>
-<i class="fa fa-mobile"></i> (438) 825-6245<br>
-<i class="fa fa-envelope"></i> vcameron.mail@gmail.com<br>
-<i class="fa fa-github"></i> [vcameron1](https://github.com/vcameron1)<br>
+<i class="fa-solid fa-location-dot"></i> 1360 rue Prunier,<br> Sherbrooke, J1k 2J7<br>
+<i class="fa-solid fa-mobile"></i> (438) 825-6245<br>
+<i class="fa-solid fa-envelope"></i> vcameron.mail@gmail.com<br>
+<i class="fa-brands fa-square-github"></i> [vcameron1](https://github.com/vcameron1)<br>
 <i class="ai ai-google-scholar"></i> [Publications](https://scholar.google.com/citations?user=5syOaukAAAAJ&hl=fr)<br>
 
 
@@ -45,7 +45,7 @@ Le code source est disponible à [github.com/vcameron1/resume](https://github.co
 
 Dernière mise à jour `r Sys.Date()`.
 
-[<i class='fas fa-download'></i> Télécharger la version PDF](https://vcameron1.github.io/resume/VictorCameron.pdf)
+[<i class="fa-solid fa-download"></i> Télécharger la version PDF](https://vcameron1.github.io/resume/VictorCameron.pdf)
 
 
 
@@ -56,9 +56,9 @@ Main
 -----------------------------------------------------------------------
 
 
-<span style="font-size: 1rem;">< <i class="fa fa-chart-bar"></i> + <i class="fa fa-laptop"></i> > Enseignant, biologiste et entraineur sportif </span>
+<span style="font-size: 1rem;">< <i class="fa-solid fa-chart-bar"></i> + <i class="fa-solid fa-laptop"></i> > Enseignant, biologiste et entraineur sportif </span>
 
-<span style="font-size: 1rem;">< <i class="fa fa-tree"></i> + <i class="fa fa-bicycle"></i> > Athlète accompli et passionné de la nature
+<span style="font-size: 1rem;">< <i class="fa-solid fa-tree"></i> + <i class="fa-solid fa-bicycle"></i> > Athlète accompli et passionné de la nature
 
 <br>
 
@@ -95,7 +95,7 @@ Saint-Hyacinthe, CA
 
 Sherbrooke, CA
 
-2023 - 2024
+2023 - aujourd'hui
 
 - Enseignement des cours [*Introduction à la programmation scientifique*](https://www.usherbrooke.ca/admission/fiches-cours/IFT199?fp=005) et [*Méthodes en écologie computationelle*](https://www.usherbrooke.ca/admission/fiches-cours/BIO500?fp=) au programme de baccalauréat en biologie
 

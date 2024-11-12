@@ -53,7 +53,7 @@ jobs:
         run: Rscript -e "rmarkdown::render('index.Rmd')"
 
       - name: Build pdf
-        run: Rscript -e "pagedown::chrome_print(input = 'index.html', output = 'index.pdf')"
+        run: Rscript -e "pagedown::chrome_print(input = 'index.html', output = 'index.pdf', verbose=1)"
 
       - name: Prepare deployment
         run: |
