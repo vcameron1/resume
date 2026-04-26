@@ -14,7 +14,7 @@ Aside
 Coordonnées
 ------------------------------------
 
-<i class="fa-solid fa-location-dot"></i> 1360 rue Prunier,<br> Sherbrooke, J1k 2J7<br>
+<i class="fa-solid fa-location-dot"></i> 12 Ch. Hill,<br> Hatley, J0B 2C0<br>
 <i class="fa-solid fa-mobile"></i> (438) 825-6245<br>
 <i class="fa-solid fa-envelope"></i> vcameron.mail@gmail.com<br>
 <i class="fa-brands fa-square-github"></i> [vcameron1](https://github.com/vcameron1)<br>
@@ -31,10 +31,11 @@ Langues
 Expertise
 ------------------------------------
 
-<span style="font-weight:600;">Biologie</span>: <br>Écologie, biologie cellulaire et moléculaire,<br> connaissances des grands systèmes biologiques chez l'humain<br>
+<span style="font-weight:600;">Biologie</span>: <br>Sciences de la nature, Soins infirmiers, SPU, Sciences humaines<br>
 
-<span style="font-weight:600;">Rédaction et présentation</span>: <br>Suite Ms Office, Google Slides, Miro, Wooclap, LaTeX<br>
+<span style="font-weight:600;">Enseignement</span>: <br>Enseignement de la biologie au collégial et à l'Université<br>Développement de laboratoires<br>
 
+<span style="font-weight:600;">Pédagogie</span>: <br>Pédagogie inclusive, pédagogie active, apprentissage par problème, laboratoires, évaluation formative<br> 
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -56,23 +57,23 @@ Main
 -----------------------------------------------------------------------
 
 
-<span style="font-size: 1rem;">< <i class="fa-solid fa-chart-bar"></i> + <i class="fa-solid fa-laptop"></i> > Enseignant, biologiste et entraineur sportif </span>
+<span style="font-size: 1rem;">< <i class="fa fa-users" aria-hidden="true"></i> > Enseignant, biologiste et entraineur sportif </span>
 
-<span style="font-size: 1rem;">< <i class="fa-solid fa-tree"></i> + <i class="fa-solid fa-bicycle"></i> > Athlète accompli et passionné de la nature
+<span style="font-size: 1rem;"><  <i class="fa-solid fa-comments"></i> > Passionné, accessible et dynamique </span>
 
 <br>
 
 ### Profil
 
-- Enseignant de biologie
-- Expérience d'enseignement dans plusieurs contextes
-- Ultra marathonien
+- Enseignant de biologie au collégial
+- Chargé de cours à l'Université de Sherbrooke
+- Entraineur de patinage de vitesse
 
 ### Compétences clés 
 
 - Pédagogie de l'enseignement 
-- Intervention auprès de jeunes adultes dans des contextes variés
-- Connaissances des grands domaines de la biologie et des principaux concepts
+- Encadrement de jeunes adultes dans des contextes variés
+- Travail d'équipe avec collègues et étudiants
 - Dynamisme
 
 
@@ -81,13 +82,15 @@ Enseignement {data-icon=chalkboard-teacher}
 
 ### Enseignant de biologie
 
-Département de biologie - [Cégep de Saint-Hyacinthe](https://www.cegepsth.qc.ca/)
+Département de biologie et des sciences de la nature
 
-Saint-Hyacinthe, CA
+Granby, CA
 
-2024 
+2023 - aujourd'hui
 
-- Enseignement du cours *Anatomie et physiologie humaines 2*
+- Sciences de la nature et soins infirmiers - [Cégep de Granby](https://www.cegepsth.qc.ca/biologie-humaine/) (2025-aujourd'hui)
+- Soins préhospitaliers d'urgence - [Cégep de Saint-Hyacinthe](https://www.cegepsth.qc.ca/) (2024-2025)
+- Sciences humaines - [Cégep de Drummondville](https://www.cegepdrummond.qc.ca/) (2023)
 
 ### Chargé de cours
 
@@ -97,17 +100,7 @@ Sherbrooke, CA
 
 2023 - aujourd'hui
 
-- Enseignement des cours [*Introduction à la programmation scientifique*](https://www.usherbrooke.ca/admission/fiches-cours/IFT199?fp=005) et [*Méthodes en écologie computationelle*](https://www.usherbrooke.ca/admission/fiches-cours/BIO500?fp=) au programme de baccalauréat en biologie
-
-### Enseignant de biologie
-
-Département des sciences de la nature - [Cégep de Dummondville](https://www.cegepdrummond.ca/)
-
-Drummondville, CA
-
-2023 
-
-- Enseignement du cours *Démystifier les maladies*
+- Enseignant au programme de baccalauréat en biologie et en écologie
 
 <!-- 
 ### Atelier sur le parcours en science postsecondaire
@@ -156,7 +149,7 @@ Sherbrooke, CA
 
 ### Maitrise | Biologie
 
-[Laboratoire d'écologie intégrative](http://ielab.recherche.usherbrooke.ca) - Université de Sherbrooke
+[Laboratoire de Dominique Gravel](http://ielab.recherche.usherbrooke.ca) - Université de Sherbrooke
 
 Sherbrooke, CA
 
@@ -182,9 +175,9 @@ Montréal, CA
 
 2015 - 2019
 
-- Projets de recherche en écologie : dynamiques de la portée des distributions (Hargreaves Lab) et impacts écosystémiques d'une espèce invasive (Ricciardi Lab)
+- Projets de recherche avec le Hargreaves Lab et le Ricciardi Lab
 - Important fondement en biologie moléculaire, cellulaire, métabolisme et génétique
-- Concentration mineure en histoire naturelle
+<!-- - Concentration mineure en histoire naturelle -->
 
 ### DEC | Sciences de la nature, sport étude
 
@@ -200,7 +193,7 @@ Laval, CA
 Expériences professionnelles {data-icon=suitcase data-concise=true}
 --------------------------------------------------------------------------------
 
-### Professionnel de recherche pour Biodiversité-Québec
+### Professionnel de recherche
 
 [Université de Sherbrooke](https://www.usherbrooke.ca)
 
@@ -208,7 +201,8 @@ Sherbrooke, CA
 
 2022 - Aujourd'hui
 
-- Spécialiste de l'intégration, de l'analyse et de la communication des données et des analyses.
+- Spécialiste de l'intégration, de l'analyse et de la communication des données et des analyses dans le laboratoire de Dominique Gravel
+- Conception et présentation de matériel de formation pour les partenaires
 
 ### Entraineur chef
 
@@ -234,7 +228,7 @@ Sherbrooke, CA
 
 2020 - 2021
 
-- Bourse obtenue suite à un concours où un comité évalue les candidatures et les propositions de projet dans un processus anonyme
+- BIOS2 est une bourse de recherche de 1 an pour soutenir les étudiants gradués dans le développement de leurs compétences et favoriser leur intégration dans les milieux professionnels.
 
   
 ### Mention du doyen pour la recherche multidisciplinaire au premier cycle
@@ -245,7 +239,7 @@ Montréal, CA
 
 2019
 
-- La mention est accordée aux étudiants ayant complété différents projets de recherche indépendants dans au moins deux départements distincts de l'université 
+- Mention est accordée aux étudiants ayant complété différents projets de recherche indépendants dans au moins deux départements distincts de l'Université
   
 ### Bourse régionale sport-étude de la Fondation Desjardins
 
