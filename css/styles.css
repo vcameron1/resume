@@ -11,7 +11,7 @@
   --page-width: 8.5in;
   --page-height: 11in;
   --main-width: 6.1in;
-  --margin-top: 0.25in;
+  --margin-top: 0.15in;
 
   --sidebar-width: calc(var(--page-width) - var(--main-width));
  
@@ -58,7 +58,7 @@ h1 {
 }
 
 .aside {
-  background-color: rgb(136, 189, 188);
+  background-color: rgb(182, 237, 159);
   padding-top: 0px;
   padding-right: 7px;
   padding-bottom: 0px;
