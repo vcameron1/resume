@@ -24,10 +24,10 @@ Coordonnées
 Compétences clés
 ------------------------------------
 
-<span style="font-weight:300;">-Pédagogie de l'enseignement</span><br>
-<span style="font-weight:300;">-Encadrement de jeunes adultes dans des contextes variés</span><br>
-<span style="font-weight:300;">-Travail d'équipe avec collègues et étudiants</span><br>
-<span style="font-weight:300;">-Dynamisme</span>
+<span style="font-weight:600;">-</span> Pédagogie de l'enseignement<br>
+<span style="font-weight:600;">-</span> Encadrement de jeunes adultes dans des contextes variés<br>
+<span style="font-weight:600;">-</span> Travail d'équipe avec collègues et étudiants<br>
+<span style="font-weight:600;">-</span> Dynamisme
 
 
 Expertise
@@ -84,9 +84,8 @@ Granby, CA
 
 2023 - aujourd'hui
 
-- Sciences de la nature et soins infirmiers - [Cégep de Granby](https://www.cegepsth.qc.ca/biologie-humaine/) (2025-aujourd'hui)
-- Soins préhospitaliers d'urgence - [Cégep de Saint-Hyacinthe](https://www.cegepsth.qc.ca/) (2024-2025)
-- Sciences humaines - [Cégep de Drummondville](https://www.cegepdrummond.qc.ca/) (2023)
+- Systèmes nerveux, endocrinien, circulatoire, digestif, respiratoire, urinaire, reproducteur, génétique, écologie et évolution et projet d'intégration
+- [Cégep de Granby](https://www.cegepsth.qc.ca/biologie-humaine/) (2025-aujourd'hui), [Cégep de Saint-Hyacinthe](https://www.cegepsth.qc.ca/) (2024-2025) et [Cégep de Drummondville](https://www.cegepdrummond.qc.ca/) (2023)
 
 ### Chargé de cours
 
@@ -141,8 +140,6 @@ Sherbrooke, CA
 
 2021 - 2023
 
-- Élaboration et présentation d'activités d'apprentissage qui tiennent compte des réalités collégiales et des pratiques pédagogiques appropriées
-
 ### Maitrise | Biologie
 
 [Laboratoire de Dominique Gravel](http://ielab.recherche.usherbrooke.ca) - Université de Sherbrooke
@@ -151,7 +148,7 @@ Sherbrooke, CA
 
 2019 - 2022
 
-- Étude des effets des changements climatiques sur les dynamiques de la distribution de la biodiversité
+- Maitrise de type recherche
 
 ### Microprogramme de 2e cycle en interactions scientifiques
 
@@ -208,6 +205,4 @@ Drummondville, CA
 
 2011 - Aujourd'hui
 
-- Auparavant à [Club de patinage de vitesse de Laval](https://www.patinlaval.ca/crcp/) (2011 - 2019) et de [Sherbrooke](https://www.cpvs.org) (2019 - 2023)
-- Gestion des plans d'entrainement visant à perfectionner des habiletés techniques, tactiques, physiques et à offrir un environnement optimal pour l'apprentissage
-- Planification de sessions répondant à des objectifs précis
+- Gestion des plans d'entrainement et coordination des activités
