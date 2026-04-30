@@ -14,18 +14,20 @@ Aside
 Coordonnées
 ------------------------------------
 
-<i class="fa-solid fa-location-dot"></i> 12 Ch. Hill,<br> Hatley, J0B 2C0<br>
+<i class="fa-solid fa-location-dot"></i> 12 Ch. Hill, Hatley, J0B 2C0<br>
 <i class="fa-solid fa-mobile"></i> (438) 825-6245<br>
 <i class="fa-solid fa-envelope"></i> vcameron.mail@gmail.com<br>
 <i class="fa-brands fa-square-github"></i> [vcameron1](https://github.com/vcameron1)<br>
 <i class="ai ai-google-scholar"></i> [Publications](https://scholar.google.com/citations?user=5syOaukAAAAJ&hl=fr)<br>
 
 
-Langues
+Compétences clés
 ------------------------------------
 
-**Français**<span style="font-size:11px;"> Natif</span><br>
-**Anglais**<span style="font-size:11px;"> Professionnel</span><br>
+<span style="font-weight:300;">-Pédagogie de l'enseignement</span><br>
+<span style="font-weight:300;">-Encadrement de jeunes adultes dans des contextes variés</span><br>
+<span style="font-weight:300;">-Travail d'équipe avec collègues et étudiants</span><br>
+<span style="font-weight:300;">-Dynamisme</span>
 
 
 Expertise
@@ -36,6 +38,15 @@ Expertise
 <span style="font-weight:600;">Enseignement</span>: <br>Enseignement de la biologie au collégial et à l'Université<br>Développement de laboratoires<br>
 
 <span style="font-weight:600;">Pédagogie</span>: <br>Pédagogie inclusive, pédagogie active, apprentissage par problème, laboratoires, évaluation formative<br> 
+
+
+Langues
+------------------------------------
+
+**Français**<span style="font-size:11px;"> Natif</span><br>
+**Anglais**<span style="font-size:11px;"> Professionnel</span><br>
+
+
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -60,21 +71,6 @@ Main
 <span style="font-size: 1rem;">< <i class="fa fa-users" aria-hidden="true"></i> > Enseignant, biologiste et entraineur sportif </span>
 
 <span style="font-size: 1rem;"><  <i class="fa-solid fa-comments"></i> > Passionné, accessible et dynamique </span>
-
-<br>
-
-### Profil
-
-- Enseignant de biologie au collégial
-- Chargé de cours à l'Université de Sherbrooke
-- Entraineur de patinage de vitesse
-
-### Compétences clés 
-
-- Pédagogie de l'enseignement 
-- Encadrement de jeunes adultes dans des contextes variés
-- Travail d'équipe avec collègues et étudiants
-- Dynamisme
 
 
 Enseignement {data-icon=chalkboard-teacher}
